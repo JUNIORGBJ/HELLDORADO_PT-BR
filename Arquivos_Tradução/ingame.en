@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="ingame.en">
+
+<!--
+File created: 07:07:31, 12:29:11
+UNIQUE_XML_EXPORT_NUMBER: 1446
+Export initiated by: tkallweit
+-->
+
+  <text id="actorname_Doc_McCoy">Dr. McCoy</text>
+  <text id="actorname_Hawkeye">Nativo</text>
+  <text id="actorname_John_Cooper">John Cooper</text>
+  <text id="actorname_Kate_OHara">Kate O&apos;Hara</text>
+  <text id="actorname_Pablo_Sanchez">Pablo Sanchez</text>
+  <text id="actorname_Sam_Williams">Sam Williams</text>
+  <text id="charactername_assasin">Assassino</text>
+  <text id="charactername_bandit_bw1">Bandido</text>
+  <text id="charactername_bandit_bw3">Bandido</text>
+  <text id="charactername_bankguard">Guarda</text>
+  <text id="charactername_bodyguard">Guarda-Costa</text>
+  <text id="charactername_cortador">El Cortador</text>
+  <text id="charactername_dancer">Dançarina</text>
+  <text id="charactername_dummy01">Boneco01</text>
+  <text id="charactername_dummy02">Boneco02</text>
+  <text id="charactername_engineer">Engenheiro</text>
+  <text id="charactername_mother">Mãe</text>
+  <text id="charactername_torture">Carrasco</text>
+  <text id="charactername_widow">Viúva</text>
+  <text id="D2_Keyboard_00010">TAB</text>
+  <text id="D2_Keyboard_00020">Caps Lock</text>
+  <text id="D2_Keyboard_00030">Shift Esquerdo</text>
+  <text id="D2_Keyboard_00040">Ctrl Esquerdo</text>
+  <text id="D2_Keyboard_00050">Alt Esquerdo</text>
+  <text id="D2_Keyboard_00060">Espaço</text>
+  <text id="D2_Keyboard_00070">Alt Direito</text>
+  <text id="D2_Keyboard_00075">Ctrl Direito</text>
+  <text id="D2_Keyboard_00080">Shift Direito</text>
+  <text id="D2_Keyboard_00090">Enter</text>
+  <text id="D2_Keyboard_00100">Backspace</text>
+  <text id="D2_Keyboard_00110">Insert</text>
+  <text id="D2_Keyboard_00120">Home</text>
+  <text id="D2_Keyboard_00130">Page Up</text>
+  <text id="D2_Keyboard_00140">Delete</text>
+  <text id="D2_Keyboard_00160">End</text>
+  <text id="D2_Keyboard_00170">Page Down</text>
+  <text id="D2_Keyboard_00180">Ceta para Cima</text>
+  <text id="D2_Keyboard_00190">Ceta para Baixo</text>
+  <text id="D2_Keyboard_00200">Ceta para Esquerda</text>
+  <text id="D2_Keyboard_00210">Ceta para Direita</text>
+  <text id="D2_Keyboard_00220">Numérico</text>
+  <text id="D2_Keyboard_00230">Numérico /</text>
+  <text id="D2_Keyboard_00240">Numérico *</text>
+  <text id="D2_Keyboard_00250">Numérico -</text>
+  <text id="D2_Keyboard_00260">Numérico +</text>
+  <text id="D2_Keyboard_00270">Numérico Enter</text>
+  <text id="D2_Keyboard_00280">Numérico ,</text>
+  <text id="D2_Keyboard_00290">Numérico 1</text>
+  <text id="D2_Keyboard_00300">Numérico 2</text>
+  <text id="D2_Keyboard_00310">Numérico 3</text>
+  <text id="D2_Keyboard_00320">Numérico 4</text>
+  <text id="D2_Keyboard_00330">Numérico 5</text>
+  <text id="D2_Keyboard_00340">Numérico 6</text>
+  <text id="D2_Keyboard_00350">Numérico 7</text>
+  <text id="D2_Keyboard_00360">Numérico 8</text>
+  <text id="D2_Keyboard_00370">Numérico 9</text>
+  <text id="D2_Keyboard_00380">Numérico 0</text>
+  <text id="D2_Tooltips_00100">Tiro em Grupo</text>
+  <text id="D2_Tooltips_00200">Revolver</text>
+  <text id="D2_Tooltips_00300">Lançar Faca</text>
+  <text id="D2_Tooltips_00350">Faca</text>
+  <text id="D2_Tooltips_00400">Relógio Musical</text>
+  <text id="D2_Tooltips_00500">Relógio Musical-Prata</text>
+  <text id="D2_Tooltips_00600">Relógio Musical-Ouro</text>
+  <text id="D2_Tooltips_00700">Pistola</text>
+  <text id="D2_Tooltips_00800">Maquiagem</text>
+  <text id="D2_Tooltips_00900">Sedução</text>
+  <text id="D2_Tooltips_01000">Simular desmaio</text>
+  <text id="D2_Tooltips_01100">Caixa de Maquiagem-Prata</text>
+  <text id="D2_Tooltips_01200">Caixa de Maquiagem-Ouro</text>
+  <text id="D2_Tooltips_01300">Pistola</text>
+  <text id="D2_Tooltips_01400">Rifle</text>
+  <text id="D2_Tooltips_01500">Gás</text>
+  <text id="D2_Tooltips_01600">Curar</text>
+  <text id="D2_Tooltips_01700">Visão Telescópica-Prata</text>
+  <text id="D2_Tooltips_01800">Visão Telescópica-Ouro</text>
+  <text id="D2_Tooltips_01900">Carabina</text>
+  <text id="D2_Tooltips_02000">Dinamite</text>
+  <text id="D2_Tooltips_02100">Lata de Nitro</text>
+  <text id="D2_Tooltips_02200">TNT</text>
+  <text id="D2_Tooltips_02300">Dinamite Azul</text>
+  <text id="D2_Tooltips_02400">Dinamite Vermelha</text>
+  <text id="D2_Tooltips_02600">Espingarda</text>
+  <text id="D2_Tooltips_02700">Pedra</text>
+  <text id="D2_Tooltips_02800">Tequila</text>
+  <text id="D2_Tooltips_02900">Armadilha de urso</text>
+  <text id="D2_Tooltips_03000">Garrafa de Tequila-Prata</text>
+  <text id="D2_Tooltips_03100">Garrafa de Tequila-Ouro</text>
+  <text id="D2_Tooltips_03200">Arco</text>
+  <text id="D2_Tooltips_03300">Machado</text>
+  <text id="D2_Tooltips_03400">Grito de guerra</text>
+  <text id="D2_Tooltips_03500">Ervas</text>
+  <text id="D2_Tooltips_03600">Arco Escuro</text>
+  <text id="D2_Tooltips_03700">Arco Preto</text>
+  <text id="D2_Tooltips_03800">Levantar</text>
+  <text id="D2_Tooltips_03900">Agachar</text>
+  <text id="D2_Tooltips_04000">Rastejar</text>
+  <text id="D2_Tooltips_04100">Gravar ação</text>
+  <text id="D2_Tooltips_04200">Confirmar ação</text>
+  <text id="D2_Tooltips_04300">Cancelar ação</text>
+  <text id="D2_Tooltips_04400">Ação por visão</text>
+  <text id="D2_Tooltips_04500">Iniciar ação</text>
+  <text id="D2_Tooltips_04600">Modo filme</text>
+  <text id="D2_Tooltips_04700">John Cooper</text>
+  <text id="D2_Tooltips_04800">Kate O’Hara</text>
+  <text id="D2_Tooltips_04900">Dr. McCoy</text>
+  <text id="D2_Tooltips_05000">Sam Williams</text>
+  <text id="D2_Tooltips_05100">Pablo Sanchez</text>
+  <text id="D2_Tooltips_05200">Nativo</text>
+  <text id="D2_Tooltips_05300">Táticas</text>
+  <text id="D2_Tooltips_05400">Visão</text>
+  <text id="D2_Tooltips_05500">Ruídos</text>
+  <text id="D2_Tooltips_05600">Bússola</text>
+  <text id="D2_Tooltips_05700">Orientação</text>
+  <text id="D2_Tooltips_05800">Visão</text>
+  <text id="D2_Tooltips_05900">Objetivos da Missão</text>
+  <text id="D2_Tooltips_06000">Ver Táticas</text>
+  <text id="D2_Tooltips_06100">Ver Ações</text>
+  <text id="D2_Tooltips_06200">Limpar Ponto</text>
+  <text id="D2_Tooltips_06300">Apagar Ponto</text>
+  <text id="D2_Tooltips_06400">Mapa</text>
+  <text id="D2_Tooltips_08000">Descrição de Conquistas:
+Você usou ações secretas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Desperado&quot; = OURO.</text>
+  <text id="D2_Tooltips_08100">Premio-secreto:
+Você usou ações secretas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Pistolero&quot; = PRATA</text>
+  <text id="D2_Tooltips_08200">Premio-secreto:
+Você usou ações secretas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Novato&quot; = BRONZE.</text>
+  <text id="D2_Tooltips_08300">Premio-Tiro:
+Você usou ações severas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Desperado&quot; = OURO.</text>
+  <text id="D2_Tooltips_08400">Premio-Tiro:
+Você usou ações severas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Pistolero&quot; = PRATA.</text>
+  <text id="D2_Tooltips_08500">Premio-Tiro:
+Você usou ações severas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Novato&quot; = BRONZE.</text>
+  <text id="D2_Tooltips_08600">Premio-Caçador:
+Você usou ações enganosas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Desperado&quot; = OURO.</text>
+  <text id="D2_Tooltips_08700">Premio-Caçador:
+Você usou ações enganosas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Pistolero&quot; = PRATA.</text>
+  <text id="D2_Tooltips_08800">Premio-Caçador:
+Você usou ações enganosas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Novato&quot; = BRONZE.</text>
+  <text id="D2_Tooltips_08900">Todos-Prêmios:
+Você usou ações equilibradas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Desperado&quot; = OURO.</text>
+  <text id="D2_Tooltips_09000">Todos-Prêmios:
+Você usou ações equilibradas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Pistolero&quot; = PRATA</text>
+  <text id="D2_Tooltips_09100">Todos-Prêmios:
+Você usou ações equilibradas para neutralizar adversários.
+O nível de dificuldade desta missão foi &quot;Novato&quot; = BRONZE.</text>
+  <text id="D2_Tooltips_09200">O nível mais baixo de dificuldade jogado em missão: &quot;Novato&quot; = BRONZE.</text>
+  <text id="D2_Tooltips_09300">O nível mais baixo de dificuldade jogado em missão: &quot;Pistoleio&quot; = PRATA</text>
+  <text id="D2_Tooltips_09400">O nível mais baixo de dificuldade jogado em missão: &quot;Desperado&quot; = OURO.</text>
+  <text id="D2_Tooltips_09500">Ação Combinada &quot;Amantes&quot;</text>
+  <text id="D2_Tooltips_09600">Ação Combinada &quot;Brigar&quot;</text>
+  <text id="D2_Tooltips_09700">Ação Combinada &quot;Pistoleros&quot;</text>
+  <text id="D2_Tooltips_09800">Ação Combinada &quot;Carregar&quot;</text>
+  <text id="D2_Tooltips_09900">Ação Combinada &quot;Irmãos de Sangue&quot;</text>
+  <text id="D2_Tooltips_10000">Ação Combinada &quot;Amarrar&quot;</text>
+  <text id="D2_Tooltips_10100">Ação Combinada &quot;Frasco Cupido&quot;</text>
+  <text id="D2_Tooltips_10200">Ação Combinada &quot;Tequila de Gás&quot;</text>
+  <text id="D2_Tooltips_10300">Ação Combinada &quot;Flecha Cupido;</text>
+  <text id="D2_Tooltips_10400">Ação Combinada &quot;Lata de Gás&quot;</text>
+  <text id="D2_Tooltips_10500">Ação Combinada &quot;Incendiários&quot;</text>
+  <text id="D2_Tooltips_10600">Ação Combinada &quot;Flecha de Gás&quot;</text>
+  <text id="D2_Tooltips_10700">Ação Combinada &quot;Atores&quot;</text>
+  <text id="D2_Tooltips_10800">Ação Combinada &quot;Sequestrador&quot;</text>
+  <text id="D2_Tooltips_10900">Ação Combinada &quot;Flecha Míssil&quot;</text>
+  <text id="DETECTION_APPLY_NEW">Aplicar nova configuração padrão?</text>
+  <text id="DETECTION_CHANGED_HARDWARE_WARN">Detectamos uma alteração na configuração do hardware:</text>
+  <text id="DETECTION_CHANGE_RECOMMEND">Recomendamos alterar as configurações padrão do jogo.</text>
+  <text id="DETECTION_GFX_CARD">Placa de vídeo detectada (new):</text>
+  <text id="DETECTION_GFX_CARD_NOHDR">HDR pós-processamento não é compatível com nesta placa gráfica.</text>
+  <text id="DETECTION_GFX_MEMORY">GFX Memoria detectada (New):</text>
+  <text id="DETECTION_GHZ">GHz detectou (New):</text>
+  <text id="DETECTION_INSUFFICIENT">Detecção automática, o hardware não está em conformidade com os requisitos mínimos do jogo:</text>
+  <text id="DETECTION_INSUFFICIENT_GFX_MEM">Não há memória suficiente na placa de vídeo: Memória detectada em MB:</text>
+  <text id="DETECTION_INSUFFICIENT_PROCESSOR">A CPU é muito lenta. GHz detectado:</text>
+  <text id="DETECTION_INSUFFICIENT_REQUIRED">Requerido:</text>
+  <text id="DETECTION_INSUFFICIENT_RUN_ANYWA">Quer executar o jogo mesmo assim?</text>
+  <text id="DETECTION_INSUFFICIENT_SYSTEM_ME">Não á memória suficiente no sistema. Memória detectada em MB:</text>
+  <text id="DETECTION_OLD">(Old):</text>
+  <text id="DETECTION_PROCESSOR">Processador Detectado (New):</text>
+  <text id="DETECTION_SYSTEM_MEMORY">Memoria Detectada (New):</text>
+  <text id="ENTER_TEXT_TXT">Digite um nome</text>
+  <text id="ERROR_DIRECTX_TEXT">Helldorado não será executado: Seu DirectX é muito antigo, instale o que se encontra na pasta de instalação do Jogo.</text>
+  <text id="ERROR_DIRECTX_TITLE">Erro!</text>
+  <text id="ERROR_MOVIE">Sem o XviD instalado, você não poderá gravar seus jogos. Instale o XviD-1.1.2-01112006 que se encontra na pasta de instalação do Jogo.</text>
+  <text id="ERROR_PHYSICS">Falha ao iniciar o PhysX. Feche todas as outras aplicações antes de iniciar o jogo. Se isso não funcionar, reinstale o PhysX_8.09.04_SystemSoftware que se encontra na pasta de instalação do Jogo.</text>
+  <text id="ERROR_PHYSICS_NO_DRIVER">PhysX não foi instalado ou não foi instalado corretamente. Reinstale o PhysX_8.09.04_SystemSoftware que se encontra na pasta de instalação do Jogo.</text>
+  <text id="ERROR_PHYSICS_WRONG_DRIVER">Versão  do PhysX não é compatível com Helldorado. Por favor, reinstale o PhysX_8.09.04_SystemSoftware que se encontra na pasta de instalação do Jogo.</text>
+  <text id="faction_change_conscious_warning">Um guarda ou um civil sai pra fora e fez disparar o alarme.</text>
+  <text id="faction_change_warning">Você disparou o alarme entre os guardas e civis.</text>
+  <text id="INGAME_AUTO_SAVED">Jogo salvo automaticamente!</text>
+  <text id="INGAME_CHANGED_DIFFICULTY_EASY">Mudanças no nível de dificuldade: &quot;fácil&quot;</text>
+  <text id="INGAME_CHANGED_DIFFICULTY_HARD">Mudanças no nível de dificuldade: &quot;difícil&quot;</text>
+  <text id="INGAME_CHANGED_DIFFICULTY_MEDIUM">Mudanças no nível de dificuldade: &quot;médio&quot;</text>
+  <text id="INGAME_CONFIRM_CHANGE_TAB_TXT">Deseja aplicar as alterações </text>
+  <text id="INGAME_CONFIRM_DELETE_TXT">Você realmente quer apagar este jogo salvo?</text>
+  <text id="INGAME_CONFIRM_DONT_SAVE_TXT">Você realmente quer parar sem salvar?</text>
+  <text id="INGAME_CONFIRM_EXIT_TXT">Você realmente quer sair?</text>
+  <text id="INGAME_CONFIRM_OVERWRITE_TXT">Deseja realmente substituir este jogo salvo?</text>
+  <text id="INGAME_CONFIRM_RESTART_TXT">Deseja realmente reiniciar a missão?</text>
+  <text id="INGAME_LOADING_MISSION">Carregando missão</text>
+  <text id="INGAME_MENU_CURMISSION_BT">MISSAO ATUAL:</text>
+  <text id="INGAME_MENU_EXIT_MISSION_BT">*Sair da missão</text>
+  <text id="INGAME_MENU_LOAD_BT">*Carregar</text>
+  <text id="INGAME_MENU_OPTIONS_BT">*Opções</text>
+  <text id="INGAME_MENU_PLAY_BT">*Continue</text>
+  <text id="INGAME_MENU_SAVE_BT">*Salvar</text>
+  <text id="INGAME_NOT_AUTO_SAVED">Jogo não foi Salvo!</text>
+  <text id="INGAME_NO_BT">*Não</text>
+  <text id="INGAME_OK_BT">O*K</text>
+  <text id="INGAME_SUCCESSFULLY_LOADED">Carregado com sucesso!</text>
+  <text id="INGAME_SUCCESSFULLY_SAVED">Salvo com sucesso!</text>
+  <text id="INGAME_UNSUCCESSFULLY_LOADED">Jogo não foi carregado com êxito!</text>
+  <text id="INGAME_UNSUCCESSFULLY_SAVED">ERROR - Jogo Não salvo com êxito!</text>
+  <text id="INGAME_WON_SCREEN_CHEATED">Nenhuma medalha recebida.</text>
+  <text id="INGAME_YES_BT">*Sim</text>
+  <text id="itemname_Ammo_colt">Munição para Armas</text>
+  <text id="itemname_Ammo_Gattling">Munição para Metralhadora</text>
+  <text id="itemname_Ammo_rifle">Munição para Rifle</text>
+  <text id="itemname_Arrows">Flechas</text>
+  <text id="itemname_Beartrap">Armadilha para urso</text>
+  <text id="itemname_Bonus">%s: %dx</text>
+  <text id="itemname_Bow">Arco</text>
+  <text id="itemname_Buntline">Linha</text>
+  <text id="itemname_Colt">Armas</text>
+  <text id="itemname_Derringer">Pistola</text>
+  <text id="itemname_Dynamite">Dinamite</text>
+  <text id="itemname_Gas">Gás</text>
+  <text id="itemname_Herb">Ervas</text>
+  <text id="itemname_item_Arrow">Flecha</text>
+  <text id="itemname_item_Beartrap">Armadilha para urso</text>
+  <text id="itemname_item_Can">Lata</text>
+  <text id="itemname_item_Colt">Revolver</text>
+  <text id="itemname_item_Derringer">Pistola</text>
+  <text id="itemname_item_Dynamite">Dinamite</text>
+  <text id="itemname_item_Gattling">Metralhadora</text>
+  <text id="itemname_item_Knife">Faca</text>
+  <text id="itemname_item_Nitro">Nitro</text>
+  <text id="itemname_item_Tequila">Tequila</text>
+  <text id="itemname_item_Watch">Relógio Musical</text>
+  <text id="itemname_item_Winchester">Carabina</text>
+  <text id="itemname_Knife">Faca</text>
+  <text id="itemname_MakeUp">Maquiagem</text>
+  <text id="itemname_Medikit">Kit medico</text>
+  <text id="itemname_Nitro">Nitro</text>
+  <text id="itemname_Shotgun">Espingarda</text>
+  <text id="itemname_Stone">Pedra</text>
+  <text id="itemname_Tequila">Tequila</text>
+  <text id="itemname_TNT">TNT</text>
+  <text id="itemname_Tomahawk">Machado</text>
+  <text id="itemname_Watch">Assistir</text>
+  <text id="itemname_Winchester">Carabina</text>
+  <text id="LOAD_MENU_AUTOSAVE">Salvo automático</text>
+  <text id="LOAD_MENU_ENDING_SAVEGAME">Seus prêmios</text>
+  <text id="LOAD_MENU_LOAD_BT">*Carregar</text>
+  <text id="LOAD_MENU_MISSION_TITLE">Missão</text>
+  <text id="LOAD_MENU_MISSION_VIDEO_NAME">Introdução</text>
+  <text id="LOAD_MENU_OUTRO">Fim</text>
+  <text id="LOAD_MENU_QUICKSAVE">Salvo manual</text>
+  <text id="LOAD_MENU_QUICKSAVE_BACKUP">Jogo salvo Backup</text>
+  <text id="LOAD_MENU_TITLE_TXT">Carregar</text>
+  <text id="LOST_MENU_FAILED_CIVILIAN_TXT">Um civil</text>
+  <text id="LOST_MENU_FAILED_KILLED_FEM_TXT">foi morta</text>
+  <text id="LOST_MENU_FAILED_KILLED_TXT">foi morto</text>
+  <text id="LOST_MENU_FAILED_MISSION_TXT">Missão fracassada -</text>
+  <text id="LOST_MENU_GAMEOVER_TXT">FIM DE JOGO</text>
+  <text id="LOST_MENU_LOAD_BT">*Carregar Jogo</text>
+  <text id="LOST_MENU_QUIT_BT">*Sair para Menu Principal</text>
+  <text id="LOST_MENU_RESTART_BT">*Tentar Novamente</text>
+  <text id="lost_misc_alarmfirecamp">Os homens na fogueira foram alertados!</text>
+  <text id="lost_misc_alarmraised">O alarme foi disparado!</text>
+  <text id="lost_misc_bodyguardkilled">Um guarda-costa foi morto</text>
+  <text id="lost_misc_deputyalarm">O deputado foi alertado!</text>
+  <text id="lost_misc_deputykilled">Um deputado foi morto!</text>
+  <text id="lost_misc_dillonfled">Dillon foi embora!</text>
+  <text id="lost_misc_dillonkilled">Dillon foi morto!</text>
+  <text id="lost_misc_engineer_knocked_out">O engenheiro foi encontrado inconsciente!</text>
+  <text id="lost_misc_harperkilled">Marshall Brooke Harker foi morto</text>
+  <text id="lost_misc_joycekilled">Capitão Joyce foi morto!</text>
+  <text id="lost_misc_kateleftprisonarea">Kate deixou a área de prisão!</text>
+  <text id="lost_misc_officeralarmed">Um oficial foi alertado!</text>
+  <text id="lost_misc_officerdied">Um oficial fiel ao general foi morto!</text>
+  <text id="lost_misc_presidentkilled">O Presidente foi morto!</text>
+  <text id="lost_misc_president_safety">A segurança do presidente foi comprometida!</text>
+  <text id="lost_misc_settlerkilled">Um colono foi morto!</text>
+  <text id="lost_misc_settlerkilled_female">Uma colono feminina</text>
+  <text id="lost_misc_sheriffalarm">O xerife foi alertado!</text>
+  <text id="lost_misc_sheriffkilled">Um xerife foi morto!</text>
+  <text id="lost_misc_soldierkilled">Um soldado foi morto!</text>
+  <text id="lost_misc_soldierko">Um soldado foi nocauteado!</text>
+  <text id="MAIN_MENUN_CURRENTMISSION">Missoes:</text>
+  <text id="MAIN_MENU_CONTINUE_BT">*Continue</text>
+  <text id="MAIN_MENU_CREDITS_BT">Cre*ditos</text>
+  <text id="MAIN_MENU_EXIT_BT">*Sair</text>
+  <text id="MAIN_MENU_LOAD_BT">*Carregar</text>
+  <text id="MAIN_MENU_OPTIONS_BT">*Opçoes</text>
+  <text id="MAIN_MENU_PLAY_BT">*Iniciar</text>
+  <text id="MAIN_MENU_RESTART_BT">*Reiniciar</text>
+  <text id="MAIN_MENU_SAVE_BT">*Salvar</text>
+  <text id="MAIN_MENU_SUBTITLE">Cooper&apos;s Revenge</text>
+  <text id="MAIN_MENU_TITLE">Desperados 2</text>
+  <text id="MAIN_MENU_TUTORIAL_BT">*Tutorial</text>
+  <text id="MENU_BACK_TO_MAINMENU_BT">*Voltar ao Menu</text>
+  <text id="MENU_DELETE_BT">*Apagar Jogo Salvo</text>
+  <text id="MESSAGE_ERROR_DVD_NOT_PRESENT">Insira o DVD do Helldorado em seu Driver de DVD.</text>
+  <text id="MESSAGE_ERROR_EXE_OUTDATED1">Versão do jogo</text>
+  <text id="MESSAGE_ERROR_EXE_OUTDATED2">Está desatualizado.</text>
+  <text id="MESSAGE_ERROR_HEADER_CORRUPT">Jogo salvo está corrompido.</text>
+  <text id="MESSAGE_ERROR_SAVEGAME_OUTDATED1">Versão do jogo salva</text>
+  <text id="MESSAGE_ERROR_SAVEGAME_OUTDATED2">Jogos salvo esta em uma versão anterior do jogo.</text>
+  <text id="MESSAGE_ERROR_SAVEGAME_OUTDATED3">Por favor, reinicie o jogo e recrie o jogo salvo com a versão atual.</text>
+  <text id="MESSAGE_ERROR_SAVE_INCOMPATIBLE1">Versão do jogo salva</text>
+  <text id="MESSAGE_ERROR_SAVE_INCOMPATIBLE2">Não é compatível com a versão do jogo.</text>
+  <text id="MESSAGE_ERROR_SAVE_INCOMPATIBLE3">jogo salvo não funcionará corretamente. Carregamento abortado.</text>
+  <text id="MESSAGE_ERROR_XML_PASRING">Erro em XML parsing</text>
+  <text id="MESSAGE_GAME_PAUSED">Jogo pausado</text>
+  <text id="MESSAGE_QUEST_MISSION_OBJECTIVE">Objetivo</text>
+  <text id="MESSAGE_QUEST_NEW_OBJECTIVE">Novo objetivo</text>
+  <text id="MESSAGE_QUEST_RECIEVED">Recebido!</text>
+  <text id="MESSAGE_QUEST_SOLVED">Resolvido!</text>
+  <text id="MESSAGE_WARNING_SAVE_UNDEFINED">ATENÇÃO: Faça um BKP do jogo salvo. Se ocorrer erro após o carregamento, por favor criar um salvamento novo.</text>
+  <text id="MESSAGE_WARNING_WRITEPROTECTED">AVISO: O jogo salvo está protegido contra gravação e não pode ser excluído.</text>
+  <text id="MISSION_NAME_01">Santa Fé pela Noite</text>
+  <text id="MISSION_NAME_02">Ninho da Águia</text>
+  <text id="MISSION_NAME_03">Buraco da Agulha</text>
+  <text id="MISSION_NAME_04">Fort Wingate</text>
+  <text id="MISSION_NAME_05">Santa Fé pelo Dia</text>
+  <text id="MISSION_NAME_06">Montanha Sagrada</text>
+  <text id="MISSION_NAME_BIG_CANYON">0*3 Grande Canyon</text>
+  <text id="MISSION_NAME_BLACKWATER">0*3 Água Negra</text>
+  <text id="MISSION_NAME_EAGLES_NEST">0*2 Ninho da Águia</text>
+  <text id="MISSION_NAME_FORT_WINGATE">0*4 Fort Wingate</text>
+  <text id="MISSION_NAME_NEW_ORLEANS">0*4 Nova Orleans</text>
+  <text id="MISSION_NAME_RELAIS_STATION">0*1 Estação Retransmissora</text>
+  <text id="MISSION_NAME_SACRED_MOUNTAIN">0*6 Montanha Sagrada</text>
+  <text id="MISSION_NAME_SANTA_FE">0*5 Santa Fé pelo Dia</text>
+  <text id="MISSION_NAME_SANTA_FE_BY_EVENING">0*2 Santa Fé pelo Tarde</text>
+  <text id="MISSION_NAME_SANTA_FE_BY_NIGHT">0*1 Santa Fé pelo Noite</text>
+  <text id="OK_MENU_OK">O*K</text>
+  <text id="OPTIONS_AUDIO_RESTORE_CONFIRM">Restaurar padrões de áudio?</text>
+  <text id="OPTIONS_CHOOSER_1024_BT">1024x768</text>
+  <text id="OPTIONS_CHOOSER_1280_10_BT">1280x1024</text>
+  <text id="OPTIONS_CHOOSER_1280_8_BT">1280x800</text>
+  <text id="OPTIONS_CHOOSER_1440_BT">1440x1050</text>
+  <text id="OPTIONS_CHOOSER_1600_BT">1600x1200</text>
+  <text id="OPTIONS_CHOOSER_1680_BT">1680x1050</text>
+  <text id="OPTIONS_CHOOSER_1920_BT">1920x1200</text>
+  <text id="OPTIONS_CHOOSER_2048_BT">2048x1536</text>
+  <text id="OPTIONS_CHOOSER_640_BT">640x480</text>
+  <text id="OPTIONS_CHOOSER_800_BT">800x600 </text>
+  <text id="OPTIONS_CHOOSER_ALL_BT">Tudo</text>
+  <text id="OPTIONS_CHOOSER_DIFFI_EASY_BT">Novato (Fácil)</text>
+  <text id="OPTIONS_CHOOSER_DIFFI_HARD_BT">Desperado (Difícil)</text>
+  <text id="OPTIONS_CHOOSER_DIFFI_MEDIUM_BT">Pistolero (Médio)</text>
+  <text id="OPTIONS_CHOOSER_FEW_BT">Pouco</text>
+  <text id="OPTIONS_CHOOSER_GAMMA_BRIGHT_TXT">Brilhante</text>
+  <text id="OPTIONS_CHOOSER_GAMMA_DARK_TXT">Escuro</text>
+  <text id="OPTIONS_CHOOSER_GAMMA_DESC">Gamma:</text>
+  <text id="OPTIONS_CHOOSER_HIGH_BT">Alto</text>
+  <text id="OPTIONS_CHOOSER_LOW_BT">Baixo</text>
+  <text id="OPTIONS_CHOOSER_MANY_BT">Muito</text>
+  <text id="OPTIONS_CHOOSER_MEDIUM_BT">Médio</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_DUAL">Modo duplo</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_HIGH_BT">Alto</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_LOW_BT">Baixo</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_MEDIUM_BT">médio</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_SKILL">Escolher Habilidade</text>
+  <text id="OPTIONS_CHOOSER_MOUSE_ZOOM">Aumentar zoom</text>
+  <text id="OPTIONS_CHOOSER_NEVER_BT">Nunca</text>
+  <text id="OPTIONS_CHOOSER_NORMAL_BT">Normal </text>
+  <text id="OPTIONS_CHOOSER_OFF_BT">Desligado</text>
+  <text id="OPTIONS_CHOOSER_OFTEN_BT">Sempre</text>
+  <text id="OPTIONS_CHOOSER_ON_BT">Ligado </text>
+  <text id="OPTIONS_CHOOSER_RARE_BT">Raro</text>
+  <text id="OPTIONS_CHOOSER_RICH_BT">Alto</text>
+  <text id="OPTIONS_CHOOSER_STANDARD_BT">Padrão </text>
+  <text id="OPTIONS_CONTROLS_CLICK_BEHIND_BT">Selecionar Herói</text>
+  <text id="OPTIONS_CONTROLS_CONTEXT_BT">Abrir/Fechar(Porta)</text>
+  <text id="OPTIONS_CONTROLS_CONTROL_BT">Açao</text>
+  <text id="OPTIONS_CONTROLS_CRAWL_BT">Rastejar</text>
+  <text id="OPTIONS_CONTROLS_CROUCH_BT">Agachar</text>
+  <text id="OPTIONS_CONTROLS_DOC_BT">Dr. McCoy</text>
+  <text id="OPTIONS_CONTROLS_HAWKEYE_BT">Nativo</text>
+  <text id="OPTIONS_CONTROLS_HERO_AB_1_BT">Habilidade 1</text>
+  <text id="OPTIONS_CONTROLS_HERO_AB_2_BT">Habilidade 2</text>
+  <text id="OPTIONS_CONTROLS_HERO_AB_3_BT">Habilidade 3</text>
+  <text id="OPTIONS_CONTROLS_HERO_AB_4_BT">Habilidade 4</text>
+  <text id="OPTIONS_CONTROLS_JOHN_BT">John Cooper</text>
+  <text id="OPTIONS_CONTROLS_KATE_BT">Kate O&apos;Hara</text>
+  <text id="OPTIONS_CONTROLS_KEY1_BT">Botao 1</text>
+  <text id="OPTIONS_CONTROLS_KEY1_WARN">(Key1)</text>
+  <text id="OPTIONS_CONTROLS_KEY2_BT">Botao 2</text>
+  <text id="OPTIONS_CONTROLS_KEY2_WARN">(Key2)</text>
+  <text id="OPTIONS_CONTROLS_KEY_ASSIGNED">Esta chave já foi usada. \n</text>
+  <text id="OPTIONS_CONTROLS_KEY_USED_FOR">Key já em uso para</text>
+  <text id="OPTIONS_CONTROLS_KEY_WARNING">Sua nova missão irá apagar a anterior: \n</text>
+  <text id="OPTIONS_CONTROLS_LAST_COMBO_BT">Repetir Ação Combinada </text>
+  <text id="OPTIONS_CONTROLS_LEAN_LEFT_BT">Girar para a Esquerda</text>
+  <text id="OPTIONS_CONTROLS_LEAN_RIGHT_BT">Girar para a Direita</text>
+  <text id="OPTIONS_CONTROLS_MAXIMAP_BT">Menu da Missão</text>
+  <text id="OPTIONS_CONTROLS_MINIMAP_BT">Mini-Mapa</text>
+  <text id="OPTIONS_CONTROLS_MOVE_BACK_BT">Mover para Baixo</text>
+  <text id="OPTIONS_CONTROLS_MOVE_FORWARD_BT">Mover para Cima</text>
+  <text id="OPTIONS_CONTROLS_MOVE_LEFT_BT">Mover para a Esquerda</text>
+  <text id="OPTIONS_CONTROLS_MOVE_RIGHT_BT">Mover para a Direita</text>
+  <text id="OPTIONS_CONTROLS_NOISE_TOOL_BT">Ferramenta de Ruido</text>
+  <text id="OPTIONS_CONTROLS_PABLO_BT">Pablo Sanchez</text>
+  <text id="OPTIONS_CONTROLS_PAUSE_BT">Pausar</text>
+  <text id="OPTIONS_CONTROLS_POSTURE_UP_BT">Levantar</text>
+  <text id="OPTIONS_CONTROLS_QA_DELETE_BT">Apagar VT</text>
+  <text id="OPTIONS_CONTROLS_QA_ON_SIGHT_BT">Modo Filme</text>
+  <text id="OPTIONS_CONTROLS_QA_RECORD_BT">Gravar VT</text>
+  <text id="OPTIONS_CONTROLS_QA_START_BT">Iniciar VT</text>
+  <text id="OPTIONS_CONTROLS_QUICKLOAD_BT">Carregamento rápido</text>
+  <text id="OPTIONS_CONTROLS_QUICKSAVE_BT">Jogo salvo</text>
+  <text id="OPTIONS_CONTROLS_REALLY_OVERWR">Substituir?</text>
+  <text id="OPTIONS_CONTROLS_RELOAD_BT">Recarregar arma</text>
+  <text id="OPTIONS_CONTROLS_RESTORE_CONFIRM">Realmente quer restaurar os padrões de controle do jogo?</text>
+  <text id="OPTIONS_CONTROLS_SAM_BT">Sam Williams</text>
+  <text id="OPTIONS_CONTROLS_SIGHT_BEAM_BT">Mostrar ferramenta de visão</text>
+  <text id="OPTIONS_CONTROLS_STAND_UP_BT">Levantar</text>
+  <text id="OPTIONS_CONTROLS_SUMMON_MOVE_BT">Mostrar Cursor</text>
+  <text id="OPTIONS_CONTROLS_SWITCH_VIEW_BT">Mudar Visão</text>
+  <text id="OPTIONS_CONTROLS_TOGGLE_COMBO_BT">Menu de Ações</text>
+  <text id="OPTIONS_CONTROLS_WALK_RUN_BT">Andar/Correr</text>
+  <text id="OPTIONS_CONTROLS_ZOOM_IN_BT">Mais Zoom</text>
+  <text id="OPTIONS_CONTROLS_ZOOM_OUT_BT">Menos Zoom</text>
+  <text id="OPTIONS_DIFFI_INFO_EASY_BT">Mira Superior, maior número de itens bônus, os adversários são inconsciente por mais Tempo. 
+Missões concluídas são recompensadas com BRONZE.</text>
+  <text id="OPTIONS_DIFFI_INFO_HARD_BT">Tiroteios melhores, itens bônus têm valores menores.
+Missões concluídas são recompensadas com OURO.</text>
+  <text id="OPTIONS_DIFFI_INFO_MEDIUM_BT">Tiroteios leves, itens de bônus têm valores elevados.
+Missões concluídas são recompensadas com PRATA.</text>
+  <text id="OPTIONS_DIFFI_INFO_STATE_EASY">-Para novatos fracos-</text>
+  <text id="OPTIONS_DIFFI_INFO_STATE_HARD">-Para Desperados reais-</text>
+  <text id="OPTIONS_DIFFI_INFO_STATE_MEDIUM">-Prove suas habilidades, Pistoleras-</text>
+  <text id="OPTIONS_DIFFI_RESTORE_CONFIRM">Restaurar Padrão Realmente?</text>
+  <text id="OPTIONS_MENU_APPLY_BT">*Aplicar</text>
+  <text id="OPTIONS_MENU_AUDIO_BT">Aud*io</text>
+  <text id="OPTIONS_MENU_AUTO_OVERWRITE_WARN">Alterado as configurações de vídeo padrão, depois de detectar o seu hardware. Isto pode reduzir o desempenho do jogo. Aplicar mesmo assim?</text>
+  <text id="OPTIONS_MENU_BACK_TO_MENU_BT">Voltar ao Menu</text>
+  <text id="OPTIONS_MENU_CANCEL_BT">*Cancelar</text>
+  <text id="OPTIONS_MENU_CHARACTER_QUAL_BT">Qualidade do personagem:</text>
+  <text id="OPTIONS_MENU_CONFIGURATION_BT">Configuracao</text>
+  <text id="OPTIONS_MENU_CONTROLS_BT">Controles</text>
+  <text id="OPTIONS_MENU_DIFFICULTYLEVEL_BT">Dificuldade do Level:</text>
+  <text id="OPTIONS_MENU_DIFFICULTY_BT">Jog*o</text>
+  <text id="OPTIONS_MENU_GAME_BT">*Jogo</text>
+  <text id="OPTIONS_MENU_LEVEL_BT">Dificuldade</text>
+  <text id="OPTIONS_MENU_LIGHTFX_BT">Efeitos de Luz:</text>
+  <text id="OPTIONS_MENU_MOUSE_BT">Mo*use</text>
+  <text id="OPTIONS_MENU_MOUSE_INVERTED_BT">Inverter Mouse:</text>
+  <text id="OPTIONS_MENU_MOUSE_SPEED_BT">Velocidade do Mouse:</text>
+  <text id="OPTIONS_MENU_NPC_NAME_DISPLAY">Exibir nomes de pessoas importantes</text>
+  <text id="OPTIONS_MENU_PARTICLES_BT">Efeitos de Partícula:</text>
+  <text id="OPTIONS_MENU_QA_MOVIE_QUAL_BT">Qualidade dos Filmes:</text>
+  <text id="OPTIONS_MENU_QUICK_ACTION_PAUSE">Pausa durante gravação rápida:</text>
+  <text id="OPTIONS_MENU_RESTORE_BT">Restaurar Pa*drao</text>
+  <text id="OPTIONS_MENU_SCREENRESOLUTION_BT">Resolução da Tela:</text>
+  <text id="OPTIONS_MENU_SETTINGS_BT">Configuracao</text>
+  <text id="OPTIONS_MENU_SHADOWS_BT">Sombras animadas:</text>
+  <text id="OPTIONS_MENU_SOUND_AMBIENT">Volume do ambiente:</text>
+  <text id="OPTIONS_MENU_SOUND_CUTSCENE">Volume das cenas:</text>
+  <text id="OPTIONS_MENU_SOUND_HARDWARE_ACCE">Hardware Aceleração:</text>
+  <text id="OPTIONS_MENU_SOUND_INTERFACE">UI Volume:</text>
+  <text id="OPTIONS_MENU_SOUND_MUSIC">Volume da Musica:</text>
+  <text id="OPTIONS_MENU_SOUND_PC_RESPONSES">Resposta do PC:</text>
+  <text id="OPTIONS_MENU_SOUND_SOUND">FX Volume:</text>
+  <text id="OPTIONS_MENU_SOUND_SPEECH">Volume da Voz:</text>
+  <text id="OPTIONS_MENU_SOUND_SUBTITLES">Legendas:</text>
+  <text id="OPTIONS_MENU_TEXRESOLUTION_BT">Resolução da Textura:</text>
+  <text id="OPTIONS_MENU_TITLE_TXT">Opçoes</text>
+  <text id="OPTIONS_MENU_VIDEO_BT">*Video</text>
+  <text id="OPTIONS_MENU_WATERFX_BT">Efeito da água:</text>
+  <text id="OPTIONS_MOUSE_RESTORE_CONFIRM">Restaurar os padrões de configuração do mouse?</text>
+  <text id="OPTIONS_MOUSE_WHEELACTION">Roda do mouse:</text>
+  <text id="OPTIONS_MOUSE_ZOOMSPEED">Velocidade do Zoom:</text>
+  <text id="OPTIONS_VIDEO_POSTPRO_HDR">HDR</text>
+  <text id="OPTIONS_VIDEO_POSTPRO_NONE">Nenhum</text>
+  <text id="OPTIONS_VIDEO_POSTPRO_NORMAL">Normal</text>
+  <text id="OPTIONS_VIDEO_POSTPRO_QUALITY">Pos-Processamento:</text>
+  <text id="OPTIONS_VIDEO_RESOLUTION_CONF_1">resolução alterada para: </text>
+  <text id="OPTIONS_VIDEO_RESOLUTION_CONF_2">clique no botão SIM, Dentro de 15 segundos. Caso contrário, o jogo vai reverter para a resolução anterior.</text>
+  <text id="OPTIONS_VIDEO_RESTORE_CONFIRM">Restaurar os padrões de vídeo?</text>
+  <text id="QA_MOVIE_INSUFFICIENT_DISK_SPACE">Não é possível gravar no disco rígido! Você quer iniciar o modo de filme sem exportar os dados?</text>
+  <text id="QUEST_BACK_BT">Voltar</text>
+  <text id="QUEST_MISSION_OVERVIEW_BT">Visão geral da Missão</text>
+  <text id="QUEST_PREVIEW_IMAGE_TEXT">Concluído</text>
+  <text id="Really overwrite Savegame ?">Substituir jogo salvo?</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_0">Fácil, rápido e enganoso. Seus heróis cobriram todas as bases.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_1">Qualquer coisa que acontecer com seus heróis, você saber usá-los.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_2">Seus heróis são produtivos, sabem como atirar, sabem colocar armadilhas - Seus inimigos ficam sem reação!</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_3">Uma coisa é clara: Seus heróis são bons em tudo!</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_4">Seus heróis provaram que eles se dão muito bem em uma luta.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_5">Seus heróis desgastaram seus inimigos com constantes mudanças táticas.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_6">Seus heróis coordenaram perfeitamente suas habilidades uns com os outros.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_7">Seus heróis mudam muito o comportamento assim foram capazes de confundir seus inimigos.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_8">Seus heróis têm dominado todas as habilidades de um real Desperados para sobreviver.</text>
+  <text id="REWARD_COMMENT_ALLROUNDER1_9">Seus heróis têm provado que os seus inimigos não pode prever seus movimentos.</text>
+  <text id="REWARD_COMMENT_GUN1_0">Seus heróis deram tiros muito fraco.</text>
+  <text id="REWARD_COMMENT_GUN1_1">Seus heróis têm mostrado que sabem como atirar.</text>
+  <text id="REWARD_COMMENT_GUN1_2">Seus heróis mostraram todas suas habilidades de tiro.</text>
+  <text id="REWARD_COMMENT_GUN1_3">Seus heróis foram direto ao ponto e isso funcionou muito bem.</text>
+  <text id="REWARD_COMMENT_GUN1_4">O ar em torno de seus heróis era sempre cheio de balas.</text>
+  <text id="REWARD_COMMENT_GUN2_0">Seus heróis mostraram que são excelentes atiradores. Os seus tiros pegaram muitos inimigos.</text>
+  <text id="REWARD_COMMENT_GUN2_1">Seus heróis tiraram tudo à sua vista. Tiveram que esperar a fumaça baixar.</text>
+  <text id="REWARD_COMMENT_GUN2_2">Seus heróis escolheram filmar todas as situações diferentes. Os coveiros vão ter um longo dia pela frente.</text>
+  <text id="REWARD_COMMENT_GUN2_3">Seus heróis, não atiraram em tudo, mas atiraram muito.</text>
+  <text id="REWARD_COMMENT_GUN2_4">Seus heróis enviaram muitos dos seus inimigos para debaixo da terra..</text>
+  <text id="REWARD_COMMENT_GUN3_0">Seus heróis estão brilhando. Não há madeira o suficiente para todos os caixões.</text>
+  <text id="REWARD_COMMENT_GUN3_1">A pólvora está no ar. Seus heróis têm mostrado a todos que eles são matadores.</text>
+  <text id="REWARD_COMMENT_GUN3_2">Eles estavam fumando: Mas estevão metendo bala.</text>
+  <text id="REWARD_COMMENT_GUN3_3">Isso é certo: seus heróis têm o gatilho mais rápido do oeste.</text>
+  <text id="REWARD_COMMENT_GUN3_4">Existe alguma coisa que seus heróis não sabem sobre balas?</text>
+  <text id="REWARD_COMMENT_HURT1_0">Seus inimigos nunca tocaram em um fio de cabelo em seus heróis.</text>
+  <text id="REWARD_COMMENT_HURT1_1">Seus inimigos foram forçados a aceitar uma derrota amarga. Vão demorar se recuperar.</text>
+  <text id="REWARD_COMMENT_HURT1_2">Você esmagou a moral dos seus inimigos. Que humilhação esmagadora.</text>
+  <text id="REWARD_COMMENT_HURT2_0">Você derrotou seus inimigos. Eles não eram muito bons para você</text>
+  <text id="REWARD_COMMENT_HURT2_1">Seus inimigos tentaram comprar seus heróis, mas não tiveram chance.</text>
+  <text id="REWARD_COMMENT_HURT2_2">Seus inimigos não aceitaram uma derrota clara. O medo ainda estava em seus ossos.</text>
+  <text id="REWARD_COMMENT_HURT3_0">Seus inimigos lutaram bravamente, mas você os derrotou mesmo assim.</text>
+  <text id="REWARD_COMMENT_HURT3_1">Todos os esforços dos seus inimigos não levo em nada. Eles foram derrotados mesmo assim.</text>
+  <text id="REWARD_COMMENT_HURT3_2">Seus inimigos levantaram e lutaram. Mas em uma questão de tempo eles foram derrotados.</text>
+  <text id="REWARD_COMMENT_HURT4_0">Seus inimigos foram derrotados, mas eles lutaram corajosamente.</text>
+  <text id="REWARD_COMMENT_HURT4_1">Seus inimigos provaram ser dignos adversários, apesar de serem derrotados.</text>
+  <text id="REWARD_COMMENT_HURT4_2">Seus inimigos lutaram e perderam. Mas mostraram coragem.</text>
+  <text id="REWARD_COMMENT_HURT5_0">Seus inimigos resistiram amargamente seus heróis.</text>
+  <text id="REWARD_COMMENT_HURT5_1">Seus inimigos mostraram que não são fácil derrota-los.</text>
+  <text id="REWARD_COMMENT_HURT5_2">Seus inimigos foram mortos, mas foi uma vitória muito apertada.</text>
+  <text id="REWARD_COMMENT_HURT6_0">Seus inimigos eram muito bons e fizeram seus heróis pagarem um preço muito alto nessa vitória.</text>
+  <text id="REWARD_COMMENT_HURT6_1">Se as coisas tivessem sido um pouco diferente seus inimigos teriam vencido</text>
+  <text id="REWARD_COMMENT_HURT6_2">Essa foi por pouco. Seus inimigos quase ensinaram seus heróis o significado do medo.</text>
+  <text id="REWARD_COMMENT_STEALTH1_0">Seus heróis avançaram silenciosamente.</text>
+  <text id="REWARD_COMMENT_STEALTH1_1">Seus heróis eram muitas vezes capazes de pegar seus inimigos de surpresa.</text>
+  <text id="REWARD_COMMENT_STEALTH1_2">Seus heróis escapa-vão de seus inimigos sempre que possível.</text>
+  <text id="REWARD_COMMENT_STEALTH1_3">Seus heróis muitas vezes tinham uma carta na manga.</text>
+  <text id="REWARD_COMMENT_STEALTH1_4">Seus heróis contaram com a sorte</text>
+  <text id="REWARD_COMMENT_STEALTH2_0">Você surpreender seus inimigos. A maioria deles só viram seus heróis muito tarde.</text>
+  <text id="REWARD_COMMENT_STEALTH2_1">Seus heróis fizeram muito barulho. Poderiam ter feito menos barulho.</text>
+  <text id="REWARD_COMMENT_STEALTH2_2">Seus heróis sabe como surpreender seus inimigos. Apenas alguns deles pediram socorro.</text>
+  <text id="REWARD_COMMENT_STEALTH2_3">Seus heróis usaram as paredes e arbustos como cobertura. Assim ninguém os ver.</text>
+  <text id="REWARD_COMMENT_STEALTH2_4">Seus heróis são bem sigilosos. Muitos inimigos perderam suas vidas como o resultado.</text>
+  <text id="REWARD_COMMENT_STEALTH3_0">Seus heróis eram tão tranquilos como sombras e extremamente mortais.</text>
+  <text id="REWARD_COMMENT_STEALTH3_1">Seus heróis eram silenciosos como índios. Nenhum galho foi quebrado sob seus pés, ninguém ouviu eles chegando.</text>
+  <text id="REWARD_COMMENT_STEALTH3_2">Tudo parecia tranquilo. Ninguém ouviu seus heróis, nem uma única vez.</text>
+  <text id="REWARD_COMMENT_STEALTH3_3">Seus heróis vão ser temido em todos os lugares como os guerreiros silenciosos da padaria.</text>
+  <text id="REWARD_COMMENT_STEALTH3_4">Seus heróis nunca foram menos calmos ou mais letais.</text>
+  <text id="REWARD_COMMENT_TRAPPER1_0">Seus heróis mostraram seu talento no engano.</text>
+  <text id="REWARD_COMMENT_TRAPPER1_1">Seus heróis conquistaram muitos inimigos com engano.</text>
+  <text id="REWARD_COMMENT_TRAPPER1_2">Seus heróis sabem como atrair em um inimigo em uma armadilha.</text>
+  <text id="REWARD_COMMENT_TRAPPER1_3">Muitas das vezes seus heróis puxaram cartas das mangas.</text>
+  <text id="REWARD_COMMENT_TRAPPER1_4">Seus heróis eram astutos. Muitos caíram em suas armadilhas.</text>
+  <text id="REWARD_COMMENT_TRAPPER2_0">Seus heróis fizeram muitos truques para matar seus inimigos.</text>
+  <text id="REWARD_COMMENT_TRAPPER2_1">Seus heróis colocaram cartas na mesa e fizeram um matança.</text>
+  <text id="REWARD_COMMENT_TRAPPER2_2">Você tinha a manha, e muitos de seus inimigos foram enganados.</text>
+  <text id="REWARD_COMMENT_TRAPPER2_3">Seus heróis esconderam suas armadilhas. Muitos de seus inimigos foram capturados por elas.</text>
+  <text id="REWARD_COMMENT_TRAPPER2_4">Seus heróis estavam fracos, Demasiados e lentos para atacar seus inimigos.</text>
+  <text id="REWARD_COMMENT_TRAPPER3_0">De agora em diante seus heróis será chamados de Raposas do Oeste;</text>
+  <text id="REWARD_COMMENT_TRAPPER3_1">Ninguém define qual armadilhas são preferidas para seus inimigos.</text>
+  <text id="REWARD_COMMENT_TRAPPER3_2">Seus heróis são grandes Enganadores!</text>
+  <text id="REWARD_COMMENT_TRAPPER3_3">Seus heróis mostraram seus truques. Ninguém foi capaz de escapar de suas armadilhas.</text>
+  <text id="REWARD_COMMENT_TRAPPER3_4">Desperados nunca foram tão astutos como seus heróis ..</text>
+  <text id="REWARD_HEADLINE_HERO">Os heróis</text>
+  <text id="REWARD_HEADLINE_OPPONENT">Os inimigos</text>
+  <text id="SAVE_MENU_SAVE_BT">*Salvar</text>
+  <text id="SAVE_MENU_TITLE_TXT">Salvar</text>
+  <text id="SCNSHOT_CANT_SAVE_SCREENSHOT_TXT">Não foi possível salvar as imagens.Remova as imagens antigas da pasta.</text>
+  <text id="SCNSHOT_OUT_OF_MEMORY_TXT">Não é possível criar imagem na tela - Erro de memória</text>
+  <text id="SCREENSHOT_MENU_CUR_RESOL_TXT">Resolução Atual</text>
+  <text id="SCREENSHOT_MENU_FALSE_TXT">Não</text>
+  <text id="SCREENSHOT_MENU_HIDE_GUI_TXT">Esconder GUI</text>
+  <text id="SCREENSHOT_MENU_OK_BT">OK</text>
+  <text id="SCREENSHOT_MENU_TAR_RESOL_TXT">Resolução alvo</text>
+  <text id="SCREENSHOT_MENU_TILES_X_TXT">Número de telhas do objeto</text>
+  <text id="SCREENSHOT_MENU_TILES_Y_TXT">Número de telhas para a altura</text>
+  <text id="SCREENSHOT_MENU_TITLE_TXT">Resolução dos diálogos</text>
+  <text id="SCREENSHOT_MENU_TRUE_TXT">VERDADE</text>
+  <text id="txt_key_000"> </text>
+  <text id="txt_key_001">&gt; Clique sobre a bússola no canto inferior direito da tela.</text>
+  <text id="txt_key_002">&gt; Pressione o botão %minimap%.
+</text>
+  <text id="txt_key_003">&gt; Segure os dois botões do mouse e mova o mouse ou você pode mover o cursor para nas bordas da tela.
+</text>
+  <text id="txt_key_004">&gt; Pressione os botões %move forward%, %move left%, %move backward%, %move right%.
+</text>
+  <text id="txt_key_005">&gt; Mantenha pressionado o botão direito do mouse e mova o mouse, ou use a roda do mouse..
+</text>
+  <text id="txt_key_006">&gt; Pressione o botão %FOV up% and %FOV down%.
+</text>
+  <text id="txt_key_007">&gt; Clique no Cooper ou clique no seu retrato no canto inferior da tela.</text>
+  <text id="txt_key_008">&gt; Pressione o botão %select 1%.</text>
+  <text id="txt_key_009">&gt; Clique no chão para mover o seu personagem para algum local.
+</text>
+  <text id="txt_key_010">&gt; Clique na carta.
+</text>
+  <text id="txt_key_011">&gt; Mantenha o botão esquerdo do mouse pressionado e arraste uma caixa de seleção em torno de seus heróis, ou mantenha a tecla Shift pressionada e clique em cada herói individualmente.
+</text>
+  <text id="txt_key_012">&gt; Mantenha pressionada a tecla shift e Pressione os botões %select 1%, %select 2% and%select 4%.
+</text>
+  <text id="txt_key_013">&gt; Dê um duplo clique no chão para fazer seus heróis andarem.
+</text>
+  <text id="txt_key_014">&gt; Clique na carta.
+</text>
+  <text id="txt_key_015">&gt; Mantenha pressionada a tecla Alt e coloque o cursor sobre um inimigo ou com o clique no ícone do olho no canto inferior direito da tela e em seguida coloque o cursor sobre um inimigo.
+</text>
+  <text id="txt_key_016">&gt; Pressione o botão %save%.
+</text>
+  <text id="txt_key_017">&gt; Clique no ícone de agachar no canto inferior esquerdo da tela.
+</text>
+  <text id="txt_key_018">&gt; Pressione o botão %crouch%.</text>
+  <text id="txt_key_019">&gt; Clique com cuidado nos marcadores de Notificações.
+</text>
+  <text id="txt_key_020">&gt; Clique no ícone do revólver no meio-esquerdo da tela.
+</text>
+  <text id="txt_key_021">&gt; Pressione o botão %action 1%.</text>
+  <text id="txt_key_022">&gt; Mantenha pressionada a tecla Ctrl e clique com o botão esquerdo no local marcado.
+</text>
+  <text id="txt_key_023">&gt; Deixe a opção marcada, mover a mira sobre o inimigo e clique para atirar.
+</text>
+  <text id="txt_key_024">&gt; Clique com o direito no revolver para recolhe-lo. Clique no ícone no canto inferior esquerdo da tela para fazer Cooper se levantar.</text>
+  <text id="txt_key_025">&gt; Pressione o botão %stand up% key para fazer Cooper se levantar.
+</text>
+  <text id="txt_key_026">&gt; Mova o cursor sobre o inimigo e clique sobre ele. Um duplo clique fará com que Cooper corra até ele.
+</text>
+  <text id="txt_key_027">&gt; Clique no local marcado a fim de carregar o inimigo. Pressione o Botão direito do mouse para largar o inimigo no chão.
+</text>
+  <text id="txt_key_029">&gt; Clique sobre o ícone de uma orelha no canto inferior direito da tela.
+</text>
+  <text id="txt_key_030">&gt; Pressione o botão %noise%.
+</text>
+  <text id="txt_key_031">&gt; Clique no ícone do Cooper deitado no canto inferior esquerdo da tela e depois clique do inimigo para nocauteá-lo.
+</text>
+  <text id="txt_key_032">&gt; Pressione o botão %crawl% pra Cooper se arrastar no chão.
+</text>
+  <text id="txt_key_033">&gt; Mova o cursor sobre o inimigo e clique nele.
+</text>
+  <text id="txt_key_034">&gt; Arraste uma caixa de seleção em torno de seus heróis para ativá-los. clique marcado para seus heróis caminhar até lá.
+</text>
+  <text id="txt_key_035">&gt; Clique na carta.
+</text>
+  <text id="txt_key_036">&gt; Clique no ícone aceso no lado esquerdo da tela.
+</text>
+  <text id="txt_key_037">&gt; Pressione o botão %action 3%.
+</text>
+  <text id="txt_key_039">&gt; Clique dentro da vista do inimigo para chamar a sua atenção. Clique sobre o inimigo para nocauteá-lo.
+</text>
+  <text id="txt_key_042">&gt; Clique no ícone do relógio no lado esquerdo da tela.
+</text>
+  <text id="txt_key_043">&gt; Pressione o botão %action 4%.
+</text>
+  <text id="txt_key_044">&gt; Clique para colocar o relógio no local marcado. Mova o mouse para ajustar o tempo do relógio. Clique para confirmar o tempo solicitado.</text>
+  <text id="txt_key_046">&gt; Clique sobre o ícone de arremesso de faca no lado esquerdo da tela para ativar a faca. Clique em um inimigo para lançar a faca.
+</text>
+  <text id="txt_key_047">&gt; Pressione o botão %action 2% para lançar a faca.
+</text>
+  <text id="txt_key_048">&gt; Cuidado! clique na próxima carta no momento certo.
+</text>
+  <text id="txt_key_049">&gt; Clique no ícone de um lápis no canto inferior direito da tela.
+</text>
+  <text id="txt_key_050">&gt; Pressione o botão %record QA%.
+</text>
+  <text id="txt_key_051">&gt; Kate: Ative a maquiagem de Kate e clique no inimigo perto da rocha. Cooper: Clique na faca de arremesso e depois no inimigo em Cima do muro. Confirmação: Clique Sobre o Ícone de Polegar Para cima.
+</text>
+  <text id="txt_key_052">&gt; Pressione o botão %save QA%.
+</text>
+  <text id="txt_key_053">&gt; Clique no ícone de um tubo de comunicação no canto inferior direito da tela.
+</text>
+  <text id="txt_key_054">&gt; Pressione o botão %play QA%.
+</text>
+  <text id="txt_key_055">&gt; Cuidado! Clique no inimigo no momento certo.
+</text>
+  <text id="txt_key_056">&gt; Ative Kate, mova o cursor sobre os inimigos. Em sequência ative Cooper e clique no local marcado.
+</text>
+  <text id="txt_key_057">&gt; Clique no ícone de seta pra direita dos retratos dos heróis.
+</text>
+  <text id="txt_key_058">&gt; Pressione o botão %display combos%.
+</text>
+  <text id="txt_key_059">&gt; Clique no ícone de punhos no painel de Ações em Grupo.
+</text>
+  <text id="txt_key_060">&gt; Clique em qualquer lugar perto dos inimigos.
+</text>
+  <text id="txt_key_061">&gt; Clique no ícone da corda no painel de Ações em Grupo e depois clique em qualquer lugar perto os inimigos para começar a Ação em Grupo.</text>
+  <text id="txt_key_062">&gt; Clique no objeto.
+</text>
+  <text id="txt_key_063">&gt;  Clique no ícone de um TNT no lado esquerdo da tela. Clique na cruz vermelha na frente da porta da cadeia para colocar o TNT.
+
+</text>
+  <text id="txt_key_064">&gt; Pressione o botão %action 4% para selecionar o TNT.
+</text>
+  <text id="txt_key_065">&gt; Clique no local marcado.
+</text>
+  <text id="txt_key_066">&gt; Clique na opção de câmera do Cooper canto inferior direito da tela.
+</text>
+  <text id="txt_key_067">&gt; Pressione o botão %camera%.
+</text>
+  <text id="txt_key_068">&gt; Mantenha pressionada a tecla Alt e clique sobre a arma no lado esquerdo da tela.
+</text>
+  <text id="txt_key_069">&gt; Pressione o botão %action 1%.
+</text>
+  <text id="txt_key_070">&gt; Mova a mira para o TNT e depois clique para atirar.
+</text>
+  <text id="txt_key_071">&gt; Clique sobre o ícone da dinamite no lado esquerdo da tela para ativa-la. Mire a dinamite para dentro da prisão. Clique para lançar a dinamite.
+</text>
+  <text id="txt_key_072">&gt; Pressione o botão %action 2%  para ativar a dinamite.
+</text>
+  <text id="txt_key_073">&gt; Clique sobre o ícone de livro no canto inferior direito da tela.
+</text>
+  <text id="txt_key_074">&gt; Pressione o botão %map%.
+</text>
+  <text id="txt_tut_0010">Cooper tem que nocautear o bêbado.</text>
+  <text id="txt_tut_0020">Vá até a galeria de tiro com Cooper e pegue munição</text>
+  <text id="txt_tut_0030">Cooper tem que pegar sua arma e atirar nas latas.</text>
+  <text id="txt_tut_0040">Dica: Quanto menor a mira, melhor você vai atingir o seu alvo!
+</text>
+  <text id="txt_tut_0050">Cooper tem que pegar a faca e jogar em MadDog.</text>
+  <text id="txt_tut_0060">Cooper tem que pegar a faca novamente.</text>
+  <text id="txt_tut_0070">Copper tem que levar o corpo de Maddog pra trás do sofá, onde Kate está esperando.</text>
+  <text id="txt_tut_0080">Kate tem que entrar no salão e seduzir o guarda-costa.</text>
+  <text id="txt_tut_0090">Soprar o pó de Kate na cara do guarda-costa.</text>
+  <text id="txt_tut_0100">Kate tem que amarrar o guarda-costa. Escondê-lo na varanda.</text>
+  <text id="txt_tut_0110">Cooper e Kate tem que tomar cuidado com os guarda-costas.</text>
+  <text id="txt_tut_0120">Dillon tem que ser amarrado.</text>
+  <text id="txt_tut_0130">Atenção: Dillon está escapando! Pare ele!</text>
+  <text id="txt_tut_0630">O Dr. pode usar o seu gás para desacordar o inimigo por um tempo!</text>
+  <text id="txt_tut_0640">Dr. tem a capacidade de curar a si mesmo, e outros personagens!</text>
+  <text id="txt_tut_0650">Cooper pode usar o relógio musical para atrair os inimigos que estão dentro do alcance.</text>
+  <text id="txt_tut_0660">Cooper tem que achar a melhor hora para dar inicio no relógio e ter um pouco de atraso no tempo.</text>
+  <text id="txt_tut_0670">Cooper tem que encontrado a melhor hora! Agora, ele pode alterar o volume da musica.</text>
+  <text id="txt_tut_0680">Kate encontrou um pó melhor! Agora seu pó tem um efeito maior.</text>
+  <text id="txt_tut_0690">Kate encontrou um pó melhor! Agora ele tem que inalar e cair em transe. Ela não vai fugir dele sozinha.</text>
+  <text id="txt_tut_0700">Kate é sedutora! Ela pode atrair inimigos para ela. Mas tenha cuidado! Quando eles perceberem que Kate está apenas brincando, eles ficam furiosos.</text>
+  <text id="txt_tut_0710">Kate pode parecer tão indefesa! Ela finge um desmaio, quem estiver por perto vai ajudá-la. Mas depois de algum tempo eles vão ter um chute no traseiro!</text>
+  <text id="txt_tut_0720">Dr. encontrou um angulo de mira telescópica! Ele pode atirar de mais longe agora.</text>
+  <text id="txt_tut_0730">Dr. encontrou um angulo de mira telescópica! Ele pode atirar de mais longe agora.</text>
+  <text id="txt_tut_0760">Sam pode jogar dinamite! Quem estiver perto da explosão vai morrer, e quem estiver mais longe vai perder a consciência. Isso vale para seus heróis!</text>
+  <text id="txt_tut_0770">Sam encontrou uma dinamite melhor! Agora as explosões serão mais poderosa do que antes.</text>
+  <text id="txt_tut_0780">Sam encontrou uma dinamite melhor! Agora vai tudo para os ares - KABOOM!</text>
+  <text id="txt_tut_0790">Sam enche latas velhas com nitroglicerina e deixa perto dos inimigos. Pisar nelas não seria agradável. As latas também podem ser detonadas, com um tiro.</text>
+  <text id="txt_tut_0800">Sam pode colocar explosivos em lugares marcados e ele pode detonar atirando neles.</text>
+  <text id="txt_tut_0810">Sanchez pode derrubar seus inimigos atirando uma pedra na cabeça.</text>
+  <text id="txt_tut_0820">Sanchez esta sempre com uma garrafa de tequila. Às vezes ele esconde uma para o inimigos encontrá-la. Quem encontra o frasco quer lutar ou se embebedar.</text>
+  <text id="txt_tut_0830">Sanchez encontrou tequilas melhores! Quem beber vai ficar bêbado mais rápido.</text>
+  <text id="txt_tut_0840">Sanchez encontrou tequilas melhores! Quem beber vai cair em um coma!</text>
+  <text id="txt_tut_0850">Sanchez tem uma armadilha de urso. É fatal, mas nem todo inimigo é burro o suficiente para cair nela.</text>
+  <text id="txt_tut_0860">Nativo seu arco é rápido e eficaz.</text>
+  <text id="txt_tut_0870">Nativo encontrou um arco melhor! agora ele pode disparar melhor do que antes.</text>
+  <text id="txt_tut_0880">Nativo encontrou um arco melhor! agora ele pode disparar melhor do que antes.</text>
+  <text id="txt_tut_0890">Nativo tem um machado ele é silencioso e mortal</text>
+  <text id="txt_tut_0900">Nativo tem um grito de guerra que assusta inimigos e cavalos, mas quando seus irmãos o ouvi eles vêm para ajudá-lo.</text>
+  <text id="txt_tut_0910">Nativo pode usar ervas xamã para curar a si mesmo e outros personagens.</text>
+  <text id="txt_tut_1000">Dica: Quando você ativar a ação combinada de Ator, Sanchez faz o papel de um bandido que capturou um índio. Ao ser utilizado Sanchez e Nativo pode passar entre a visão de um inimigo sem ser atacado. Use isso para pegar a pedra no lado direito da floresta.</text>
+  <text id="txt_tut_1010">Dica: Quando você ativar a ação combinada míssil, Sam pega uma banana de dinamite para colocar em uma flecha. Então você pode ver o Nativo atirar uma flecha com uma dinamite.</text>
+  <text id="txt_tut_1020">Dica: O engenheiro não é o único que gosta de tequila! Os soldados são muito mais fortes do que o engenheiro. Tente colocar a tequila em um local onde os soldados não podem encontrá-la ou tentar colocar distante dos soldados.</text>
+  <text id="txt_tut_2000">Apenas uma pequena parte do campo de jogo é visível. Abra o mini-mapa para obter uma visão geral de todo o mapa. A árvore de carvalho morta esta marcada no mini-mapa.
+</text>
+  <text id="txt_tut_2010">OK. Agora mova sobre o jogo até que a árvore de carvalho esteja no meio da tela.
+</text>
+  <text id="txt_tut_2020">Muito bom! Aumente o zoom até que você veja Cooper na borda da tela.
+</text>
+  <text id="txt_tut_2030">Ali está ele! Selecione Cooper.</text>
+  <text id="txt_tut_2035">Bom. Agora leve Cooper para a bolsa perto da árvore.
+</text>
+  <text id="txt_tut_2040">OK. Leia a carta que foi encontrada na bolsa.
+</text>
+  <text id="txt_tut_2050">Ative todos os três heróis.
+</text>
+  <text id="txt_tut_2060">Bom. Leve todos em direção a cruz que está a poucos metros da beira da estrada.
+</text>
+  <text id="txt_tut_2070">Excelente! Leia a mensagem seguinte.</text>
+  <text id="txt_tut_2080">Primeira instrução do Cooper, ative a visão do guarda.
+</text>
+  <text id="txt_tut_2085">Se você entrar na visão de um inimigo, você será atacado. Você pode mover cuidadosamente próximo da visão dos inimigos. Quando a visão estiver bloqueada por alguma coisa você poderá se rastejar e agachar-se dentro dessas área sem ser notado.
+</text>
+  <text id="txt_tut_2090">É uma boa idéia fazer um Salvamento rápida antes de tentar qualquer coisa perigosa, de modo que você possa voltar atrás, se as coisas não saírem conforme o planejado.
+</text>
+  <text id="txt_tut_2100">Cooper tem que se agachar.
+</text>
+  <text id="txt_tut_2110">OK. Ande até a pedra ao lado da ponte para um angulo melhor de visão .
+</text>
+  <text id="txt_tut_2120">Bem! Agora temos que pegar seu revólver.
+</text>
+  <text id="txt_tut_2130">É muito bom, não é? Encontrar um ponto de vista adequado.
+</text>
+  <text id="txt_tut_2140">Agora você pode ver o guarda muito melhor. Atire ele.
+</text>
+  <text id="txt_tut_2150">Muito bem! recolha sua arma e pode se levantar.
+</text>
+  <text id="txt_tut_2160">OK. Caminhe ate o cadáver e carregue-o.
+</text>
+  <text id="txt_tut_2170">Ele é pesado! Leve-o para o local atrás da rocha e coloquei-o no chão.
+
+</text>
+  <text id="txt_tut_2180">Ative a ferramenta de ruido
+</text>
+  <text id="txt_tut_2190">Deite-se no chão e rasteje em direção ao inimigo na ponte. Quando você estiver perto o suficiente, nocauteei. Tenha cuidado, pois Cooper faz muito mais ruído na madeira do que na terra.
+</text>
+  <text id="txt_tut_2210">Muito bom! Agora Kate pode conter o inimigo inconsciente.
+</text>
+  <text id="txt_tut_2220">Esconda seus heróis e o guarda atrás da rocha perto da marcação..
+</text>
+  <text id="txt_tut_2225">leia a carta que esta atrás da rocha.
+</text>
+  <text id="txt_tut_2230">Selecione Kate e ative sua capacidade de sedução.
+</text>
+  <text id="txt_tut_2240">Ande com Kate ate a visão do inimigo e espere até que ele se aproxime. Depois que ele estiver perto o suficiente nocauteie com Kate.
+</text>
+  <text id="txt_tut_2250">Muito bom! Amarre o guarda e esconda-o com seus heróis atrás da rocha.
+</text>
+  <text id="txt_tut_2260">Selecione Cooper e ative seu relógio.
+</text>
+  <text id="txt_tut_2270">Coloque o relógio dentro do alcance do guarda.
+</text>
+  <text id="txt_tut_2275">Defina o intervalo para o seu máximo.
+</text>
+  <text id="txt_tut_2280">Espere até que o guarda se mova para perto do relógio e arremesse a faca.
+</text>
+  <text id="txt_tut_2290">Ok, agora pegue o relógio. Olhe para visão dos guardas e perceba que estão olhando para varias direções. Tente passar com Cooper no momento certo para alcançar as caixas de suprimentos.
+</text>
+  <text id="txt_tut_2300">Ative o modo de Ação Rápida
+</text>
+  <text id="txt_tut_2310">Boa. Agora selecione Kate e ative o pó. Clique em qualquer uma ou nos dois guardas atrás da rocha. Em seguida, selecione Cooper, ative o arremesso de faca e mate o inimigo em cima do muro.
+</text>
+  <text id="txt_tut_2320">Certo! Confirme as ações rápidas e execute-as. Se você quiser, pode assistir as ações rápidas no modo de filme para uma experiência mais cinematográfica.
+</text>
+  <text id="txt_tut_2330">Espere até que o guarda se acalme. Passe por trás dele e nocauteie. Tenha o cuidado com o ruído causado. Dica: Kate é muito mais silenciosa do que Cooper e Sam. Depois de nocautear o guarda, eliminar o guarda perto das escadas.
+</text>
+  <text id="txt_tut_2335">Cooper tem que subir a escada e se esconder atrás das grades. Ao mesmo tempo tem Kate tem que amarrar o guarda embaixo, no pátio.
+</text>
+  <text id="txt_tut_2340">Abra o painel para as ações em Grupo
+</text>
+  <text id="txt_tut_2350">Ative a ação combinada &quot;Briga&quot;.
+</text>
+  <text id="txt_tut_2360">Bom. Agora selecione a área em que a combinação será executada.
+</text>
+  <text id="txt_tut_2370">Parece que eles vão dormir até que a vaca tussa! Ative a &quot;Binders&quot; ação.
+</text>
+  <text id="txt_tut_2375">Leia a carta ao lado da prisão.
+</text>
+  <text id="txt_tut_2380">Ative o TNT de Sam e coloque-o sobre a marcação em frente a porta.
+</text>
+  <text id="txt_tut_2390">OK. Agora Sam tem que ficar longe da porta. Vai explodir tudo aqui!
+</text>
+  <text id="txt_tut_2400">Bom. Ative o modo 3ª pessoa de Sam.</text>
+  <text id="txt_tut_2410">OK. agora selecione a Carabina.
+</text>
+  <text id="txt_tut_2420">Muito bom. Atire no TNT.
+</text>
+  <text id="txt_tut_2430">Selecione Sam e elimine os guardas que estão dentro da prisão.
+</text>
+  <text id="txt_tut_2440">Abrar o &quot;Objetivo da Missão&quot; e se familiarize com seu primeiro objectivo. Você vai ter que terminar sozinho e sem ajuda.
+</text>
+  <text id="WARNING_HARDWARE">Seu hardware não suporta esta resolução</text>
+  <text id="WARNING_RES_CHANGE">A resolução foi alterado para</text>
+  <text id="WARNING_SAVING">Aguarde o jogo ser salvo.</text>
+  <text id="WARNING_UNLOADING_GAME">Aguarde enquanto o jogo finaliza.</text>
+  <text id="WARNING_UNLOADING_LEVEL">Aguarde enquanto o nível é desbloqueado.</text>
+  <text id="WARNING_VIDEO_HDRRESTART">Algumas configurações só terão efeito após o reinício do jogo.</text>
+  <text id="WON_MENU_NEXTMISSION_BT">*Prosseguir</text>
+  <text id="WON_MENU_QUIT_BT">*Voltar ao Menu Principal</text>
+  <text id="WON_MENU_SUCCESFULL_BRONZE_TXT">BRONZE - Você teve sorte! Foi muito perto.</text>
+  <text id="WON_MENU_SUCCESFULL_GOLD_TXT">OURO - Brilhante! você se tornará lendário.</text>
+  <text id="WON_MENU_SUCCESFULL_SILVER_TXT">PRATA - Muito bom! Você foi ótimo.</text>
+  <text id="WON_MENU_SUCCESFULL_TXT">MISSÃO CONCLUIDA!</text>
+  <text id="WON_MENU_WELLDONE_TXT">MUITO BEM!</text>
+
+</resources>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

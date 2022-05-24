@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="qactions.en">
+
+<!--
+File created: 07:04:12, 16:36:29
+UNIQUE_XML_EXPORT_NUMBER: 1280
+Export initiated by: Jochen02
+-->
+
+  <text id="QUICKACTION_ABORTED_TEXT">Aborted</text>
+  <text id="QUICKACTION_CHANGE_POSTURE">Change posture</text>
+  <text id="QUICKACTION_COMBO_ACTORS">Actors</text>
+  <text id="QUICKACTION_COMBO_BINDERS">Binders</text>
+  <text id="QUICKACTION_COMBO_BLOODBROTHERS">Blood Brothers</text>
+  <text id="QUICKACTION_COMBO_BRAWLERS">Brawlers</text>
+  <text id="QUICKACTION_COMBO_CHEMISTS">Chemists</text>
+  <text id="QUICKACTION_COMBO_CLEANERS">Cleaners</text>
+  <text id="QUICKACTION_COMBO_CUPIDON">Cupid&apos;s Arrows</text>
+  <text id="QUICKACTION_COMBO_DISTILLERS">Distillers</text>
+  <text id="QUICKACTION_COMBO_GUNFIGHTERS">Sharpshooters</text>
+  <text id="QUICKACTION_COMBO_INCENDIARIES">Incendiaries</text>
+  <text id="QUICKACTION_COMBO_JOKERS">Jokers</text>
+  <text id="QUICKACTION_COMBO_KIDNAPPER">Kidnapper</text>
+  <text id="QUICKACTION_COMBO_LOVERS">Lovers</text>
+  <text id="QUICKACTION_COMBO_MISSILE">Missile</text>
+  <text id="QUICKACTION_COMBO_TSETSE">Tsetse</text>
+  <text id="QUICKACTION_CROUCH">Crouch</text>
+  <text id="QUICKACTION_DISMOUNT_HORSE">Dismount horse</text>
+  <text id="QUICKACTION_DROP_CORPSE">Drop body</text>
+  <text id="QUICKACTION_GIVE">Give</text>
+  <text id="QUICKACTION_HEAL">Heal</text>
+  <text id="QUICKACTION_HIT">Hit</text>
+  <text id="QUICKACTION_HIT_WITH">Hit with</text>
+  <text id="QUICKACTION_ITEM_ARROW">Arrow</text>
+  <text id="QUICKACTION_ITEM_BEARTRAP">Beartrap</text>
+  <text id="QUICKACTION_ITEM_BOW">Bow</text>
+  <text id="QUICKACTION_ITEM_DYNAMITE">Dynamite</text>
+  <text id="QUICKACTION_ITEM_GATTLING">Gattling</text>
+  <text id="QUICKACTION_ITEM_GUN">Gun</text>
+  <text id="QUICKACTION_ITEM_KNIFE">Knife</text>
+  <text id="QUICKACTION_ITEM_MAKEUP">Make-up</text>
+  <text id="QUICKACTION_ITEM_MEDICINE">Medicine</text>
+  <text id="QUICKACTION_ITEM_NITROGLYCERINE">Nitro</text>
+  <text id="QUICKACTION_ITEM_PHIAL">Gas</text>
+  <text id="QUICKACTION_ITEM_RIFLE">Rifle</text>
+  <text id="QUICKACTION_ITEM_STONE">Stone</text>
+  <text id="QUICKACTION_ITEM_TEQUILA">Tequila</text>
+  <text id="QUICKACTION_ITEM_TNT">TNT</text>
+  <text id="QUICKACTION_ITEM_TOMAHAWK">Tomahawk</text>
+  <text id="QUICKACTION_ITEM_WATCH">Melody</text>
+  <text id="QUICKACTION_LIE">Lie down</text>
+  <text id="QUICKACTION_MOUNT_HORSE">Mount horse</text>
+  <text id="QUICKACTION_ON_SIGHT">(Sight)</text>
+  <text id="QUICKACTION_PICK_UP_CORPSE">Pick up body</text>
+  <text id="QUICKACTION_PUT">Put</text>
+  <text id="QUICKACTION_RUN">Run</text>
+  <text id="QUICKACTION_SEDUCE">Seduce</text>
+  <text id="QUICKACTION_SIMULATE_FAINT">Simulate faint</text>
+  <text id="QUICKACTION_STAND">stand up</text>
+  <text id="QUICKACTION_STAND_UP">Stand up</text>
+  <text id="QUICKACTION_TAKE">Take</text>
+  <text id="QUICKACTION_THROW">Throw</text>
+  <text id="QUICKACTION_TIE_ACTOR">Tie up</text>
+  <text id="QUICKACTION_TRAP">Trap with</text>
+  <text id="QUICKACTION_USE">Use</text>
+  <text id="QUICKACTION_USE_DOOR">Use door</text>
+  <text id="QUICKACTION_WAKE_UP">Wake up</text>
+  <text id="QUICKACTION_WALK">Walk</text>
+  <text id="QUICKACTION_WARCRY">War cry</text>
+
+</resources>

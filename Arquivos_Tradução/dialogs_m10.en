@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M10.en">
+
+<!--
+File created: 07:07:31, 12:30:43
+UNIQUE_XML_EXPORT_NUMBER: 1448
+Export initiated by: tkallweit
+-->
+
+
+  <level id="LV_10">
+    <dialog id="lv10_cs010">
+      <text id="lv10_0010_cs010_ln010" actor="30she2" mood="neutral" system="lv10_0010_cs010_ln010.wav">Put the revolver... hic…on the table…hic...otherwise there&apos;s gonna be a fight.</text>
+      <text id="lv10_0020_cs010_ln015" actor="30she2" mood="neutral" system="lv10_0020_cs010_ln015.wav">Umph!</text>
+      <text id="lv10_0030_cs010_ln060" actor="Kate OHara" mood="neutral" system="lv10_0030_cs010_ln060.wav">I&apos;m unarmed. Can I get through?</text>
+      <text id="lv10_0040_cs010_ln070" actor="30she2" mood="neutral" system="lv10_0040_cs010_ln070.wav">Tell me…lovely lady…don&apos;t I know you?</text>
+      <text id="lv10_0050_cs010_ln075" actor="Kate OHara" mood="neutral" system="lv10_0050_cs010_ln075.wav">I don&apos;t think so.</text>
+      <text id="lv10_0060_cs010_ln078" actor="30she2" mood="neutral" system="lv10_0060_cs010_ln078.wav">Too bad…hic…I could have sworn that I had seen you somewhere before...</text>
+      <text id="lv10_0070_cs010_ln080" actor="Kate OHara" mood="neutral" system="lv10_0070_cs010_ln080.wav">Crap!</text>
+    </dialog>
+
+    <dialog id="lv10_cs020">
+      <text id="lv10_0080_cs020_ln010" actor="00pres" mood="neutral" system="lv10_0080_cs020_ln010.wav">Come in, James.</text>
+      <text id="lv10_0090_cs020_ln020" actor="00pres" mood="neutral" system="lv10_0090_cs020_ln020.wav">Thank you, James. Put the tray on the table.</text>
+      <text id="lv10_0100_cs020_ln030" actor="Kate OHara" mood="neutral" system="lv10_0100_cs020_ln030.wav">Hrrrmmm... Hrrrrmm...</text>
+      <text id="lv10_0110_cs020_ln040" actor="00pres" mood="neutral" system="lv10_0110_cs020_ln040.wav">Pardon me, ma&apos;am, do I know you?</text>
+      <text id="lv10_0120_cs020_ln050" actor="Kate OHara" mood="neutral" system="lv10_0120_cs020_ln050.wav">My name is Kate O&apos;Hara. I&apos;m here to warn you.</text>
+      <text id="lv10_0130_cs020_ln060" actor="00pres" mood="neutral" system="lv10_0130_cs020_ln060.wav">Ha ha ha</text>
+      <text id="lv10_0140_cs020_ln070" actor="00pres" mood="neutral" system="lv10_0140_cs020_ln070.wav">To warn me, ma&apos;am? About what?</text>
+      <text id="lv10_0150_cs020_ln080" actor="00pres" mood="neutral" system="lv10_0150_cs020_ln080.wav">This is terrible! Where did you get it?</text>
+      <text id="lv10_0160_cs020_ln090" actor="Kate OHara" mood="neutral" system="lv10_0160_cs020_ln090.wav">We were blackmailed by Mexican bandits. When we confronted them in Blackwater, we found the documents that lie before you now. </text>
+      <text id="lv10_0170_cs020_ln100" actor="00pres" mood="neutral" system="lv10_0170_cs020_ln100.wav">And I&apos;m supposed to believe you?</text>
+      <text id="lv10_0180_cs020_ln110" actor="00pres" mood="neutral" system="lv10_0180_cs020_ln110.wav">What, in your opinion, should I do now?</text>
+      <text id="lv10_0190_cs020_ln120" actor="Kate OHara" mood="neutral" system="lv10_0190_cs020_ln120.wav">Postpone your speech, Mr. President. Give my friends some time to find the assassins.</text>
+      <text id="lv10_0200_cs020_ln130" actor="00pres" mood="neutral" system="lv10_0200_cs020_ln130.wav">James!</text>
+      <text id="lv10_0210_cs020_ln160" actor="Sanchez" mood="neutral" system="lv10_0210_cs020_ln160.wav">Um…amigos…What exactly are we waiting for?</text>
+      <text id="lv10_0220_cs020_ln170" actor="Doc McCoy" mood="neutral" system="lv10_0220_cs020_ln170.wav">There, you dope! Let&apos;s go hunt Mexicans!</text>
+    </dialog>
+
+    <dialog id="lv10_cs030">
+      <text id="lv10_0230_cs030_ln010" actor="John Cooper" mood="neutral" system="lv10_0230_cs030_ln010.wav">That was everyone.</text>
+      <text id="lv10_0240_cs030_ln020" actor="John Cooper" mood="neutral" system="lv10_0240_cs030_ln020.wav">Sam, go find Kate! Tell her these fellows have been taken care of.</text>
+      <text id="lv10_0250_cs030_ln030" actor="Sam" mood="neutral" system="lv10_0250_cs030_ln030.wav">Sure, no problem.</text>
+      <text id="lv10_0260_cs030_ln040" actor="Sanchez" mood="neutral" system="lv10_0260_cs030_ln040.wav">Doc, you can read, can&apos;t you?</text>
+      <text id="lv10_0270_cs030_ln050" actor="Doc McCoy" mood="neutral" system="lv10_0270_cs030_ln050.wav">Umpf.</text>
+      <text id="lv10_0280_cs030_ln060" actor="Sanchez" mood="neutral" system="lv10_0280_cs030_ln060.wav">What does it say?</text>
+      <text id="lv10_0290_cs030_ln070" actor="Doc McCoy" mood="neutral" system="lv10_0290_cs030_ln070.wav">El Cortador. Why?</text>
+      <text id="lv10_0300_cs030_ln080" actor="Sanchez" mood="neutral" system="lv10_0300_cs030_ln080.wav">Well, he&apos;s not here.</text>
+      <text id="lv10_0310_cs030_ln090" actor="Doc McCoy" mood="neutral" system="lv10_0310_cs030_ln090.wav">Dammit!</text>
+      <text id="lv10_0320_cs030_ln100" actor="Doc McCoy" mood="neutral" system="lv10_0320_cs030_ln100.wav">Take cover!</text>
+      <text id="lv10_0330_cs030_ln110" actor="03cort" mood="neutral" system="lv10_0330_cs030_ln110.wav">Ahhhh</text>
+      <text id="lv10_0340_cs030_ln120" actor="03cort" mood="neutral" system="lv10_0340_cs030_ln120.wav">Ahhhh</text>
+      <text id="lv10_0350_cs030_ln140" actor="John Cooper" mood="neutral" system="lv10_0350_cs030_ln140.wav">Shit!</text>
+      <text id="lv10_0360_cs030_ln145" actor="Doc McCoy" mood="neutral" system="lv10_0360_cs030_ln145.wav">He got away!</text>
+      <text id="lv10_0370_cs030_ln180" actor="53sew2" mood="neutral" system="lv10_0370_cs030_ln180.wav">Marshall…I believe I heard shots. In the building over there.</text>
+      <text id="lv10_0380_cs030_ln185" actor="02harp" mood="neutral" system="lv10_0380_cs030_ln185.wav">Search the house!</text>
+      <text id="lv10_0390_cs030_ln215" actor="69rev2" mood="neutral" system="lv10_0390_cs030_ln215.wav">Hm…?</text>
+      <text id="lv10_0400_cs030_ln220" actor="03cort" mood="neutral" system="lv10_0400_cs030_ln220.wav">Umpf.</text>
+      <text id="lv10_0410_cs030_ln230" actor="69rev2" mood="neutral" system="lv10_0410_cs030_ln230.wav">And? Were you victorious?</text>
+      <text id="lv10_0420_cs030_ln240" actor="69rev2" mood="neutral" system="lv10_0420_cs030_ln240.wav">Grrr...</text>
+      <text id="lv10_0430_cs030_ln250" actor="03cort" mood="neutral" system="lv10_0430_cs030_ln250.wav">I have to do everything myself. It&apos;s pathetic!</text>
+      <text id="lv10_0440_cs030_ln260" actor="03cort" mood="neutral" system="lv10_0440_cs030_ln260.wav">Make sure no one disturbs me.</text>
+    </dialog>
+
+    <dialog id="lv10_cs040">
+      <text id="lv10_0450_cs040_ln070" actor="03cort" mood="neutral" system="lv10_0450_cs040_ln070.wav">Keep talking! I&apos;ll give you time! It&apos;s much more dramatic that way!</text>
+    </dialog>
+
+    <dialog id="lv10_dg010">
+      <text id="lv10_0460_dg010_ln010" actor="44bank" mood="neutral" system="lv10_0460_dg010_ln010.wav">Quickly, gentlemen, the President would like to depart!</text>
+      <text id="lv10_0470_dg010_ln020" actor="44bank" mood="neutral" system="lv10_0470_dg010_ln020.wav">Is that dust? We can&apos;t have that! Clean the carriage again!</text>
+    </dialog>
+
+    <dialog id="lv10_dg020">
+      <text id="lv10_0480_dg020_ln010" actor="44bank" mood="neutral" system="lv10_0480_dg020_ln010.wav">Long live the President!</text>
+      <text id="lv10_0490_dg020_ln020" actor="44bank" mood="neutral" system="lv10_0490_dg020_ln020.wav">Yeah! Bravo! Yeah!</text>
+      <text id="lv10_0500_dg020_ln030" actor="48lady" mood="neutral" system="lv10_0500_dg020_ln030.wav">We&apos;re Republicans!</text>
+      <text id="lv10_0510_dg020_ln040" actor="48lady" mood="neutral" system="lv10_0510_dg020_ln040.wav">Yeah! Yeah! Yeah!</text>
+      <text id="lv10_0520_dg020_ln050" actor="64part" mood="neutral" system="lv10_0520_dg020_ln050.wav">Long live Chester Alan Arthur!</text>
+      <text id="lv10_0530_dg020_ln060" actor="64part" mood="neutral" system="lv10_0530_dg020_ln060.wav">Ohh- oh-oh... Ohhh Ohhh</text>
+      <text id="lv10_0540_dg020_ln070" actor="65girl" mood="neutral" system="lv10_0540_dg020_ln070.wav">Arthur, Arthur, Arthur!</text>
+      <text id="lv10_0550_dg020_ln080" actor="65girl" mood="neutral" system="lv10_0550_dg020_ln080.wav">Yuppieee</text>
+      <text id="lv10_0560_dg020_ln090" actor="24bod1" mood="neutral" system="lv10_0560_dg020_ln090.wav">Hey! There&apos;s a line there, an imaginary line! You can&apos;t cross it, you worm... He he he.</text>
+      <text id="lv10_0570_dg020_ln100" actor="24bod1" mood="neutral" system="lv10_0570_dg020_ln100.wav">Step back! Step back I tell you! He he he</text>
+      <text id="lv10_0580_dg020_ln110" actor="71pbod" mood="neutral" system="lv10_0580_dg020_ln110.wav">Please stay back!</text>
+      <text id="lv10_0590_dg020_ln120" actor="71pbod" mood="neutral" system="lv10_0590_dg020_ln120.wav">Don&apos;t come any closer!</text>
+    </dialog>
+
+    <dialog id="lv10_dg030">
+      <text id="lv10_0600_dg030_ln010" actor="24bod1" mood="neutral" system="lv10_0600_dg030_ln010.wav">He he he...  Nobody needs to piss as often as our President...  He he he...  nobody!</text>
+      <text id="lv10_0610_dg030_ln020" actor="44bank" mood="neutral" system="lv10_0610_dg030_ln020.wav">What gives you the right to slander our President?</text>
+      <text id="lv10_0620_dg030_ln030" actor="24bod1" mood="neutral" system="lv10_0620_dg030_ln030.wav">He he he...  But it&apos;s true...  He he he... </text>
+    </dialog>
+
+    <dialog id="lv10_dg040">
+      <text id="lv10_0630_dg040_ln010" actor="63poli" mood="neutral" system="lv10_0630_dg040_ln010.wav">With your permission, Mr. President, there is currently speculation in the press about your health. Perhaps you should offer them an explanation.</text>
+      <text id="lv10_0640_dg040_ln020" actor="00pres" mood="neutral" system="lv10_0640_dg040_ln020.wav">I may be the President of the United States, but my private life is no one else&apos;s business!</text>
+    </dialog>
+
+    <dialog id="lv10_dg050">
+      <text id="lv10_0650_dg050_ln010" actor="00pres" mood="neutral" system="lv10_0650_dg050_ln010.wav">Oh, that burns!</text>
+    </dialog>
+
+    <dialog id="lv10_dg060">
+      <text id="lv10_0660_dg060_ln010" actor="41loli" mood="neutral" system="lv10_0660_dg060_ln010.wav">Why hasn&apos;t the President shown up?</text>
+      <text id="lv10_0670_dg060_ln020" actor="43barm" mood="neutral" system="lv10_0670_dg060_ln020.wav">It&apos;s taking forever!</text>
+      <text id="lv10_0680_dg060_ln030" actor="44bank" mood="neutral" system="lv10_0680_dg060_ln030.wav">Shouldn&apos;t the President be here already?</text>
+      <text id="lv10_0690_dg060_ln040" actor="45post" mood="neutral" system="lv10_0690_dg060_ln040.wav">Oh! If I had only known... I... eh... I would have brought some whiskey!</text>
+      <text id="lv10_0700_dg060_ln050" actor="48lady" mood="neutral" system="lv10_0700_dg060_ln050.wav">It is rumored that the President is not in the best of health... </text>
+      <text id="lv10_0710_dg060_ln060" actor="53sew2" mood="neutral" system="lv10_0710_dg060_ln060.wav">For the love of God, the President isn&apos;t sick, is he?</text>
+      <text id="lv10_0720_dg060_ln070" actor="64part" mood="neutral" system="lv10_0720_dg060_ln070.wav">It&apos;s about time for him to show his face!</text>
+      <text id="lv10_0730_dg060_ln080" actor="63poli" mood="neutral" system="lv10_0730_dg060_ln080.wav">A good speech takes time!</text>
+      <text id="lv10_0740_dg060_ln090" actor="65girl" mood="neutral" system="lv10_0740_dg060_ln090.wav">Maybe he&apos;s coming by another route?</text>
+      <text id="lv10_0750_dg060_ln100" actor="72oldb" mood="neutral" system="lv10_0750_dg060_ln100.wav">That&apos;s how it is with these high class people. You have to beat them so they hurry up!</text>
+    </dialog>
+
+    <dialog id="lv10_dg070">
+      <text id="lv10_0760_dg070_ln010" actor="20sol2" mood="neutral" system="lv10_0760_dg070_ln010.wav">Hellfire and damnation! Stay back!</text>
+      <text id="lv10_0770_dg070_ln020" actor="21sol3" mood="neutral" system="lv10_0770_dg070_ln020.wav">Everything is all right. There is just a short delay!</text>
+      <text id="lv10_0780_dg070_ln030" actor="22sol4" mood="neutral" system="lv10_0780_dg070_ln030.wav">Step back! </text>
+      <text id="lv10_0790_dg070_ln040" actor="25sol7" mood="neutral" system="lv10_0790_dg070_ln040.wav">Goddamn bastards! Move further down the street!</text>
+    </dialog>
+
+    <dialog id="lv10_dg080">
+      <text id="lv10_0800_dg080_ln010" actor="14out2" mood="neutral" system="lv10_0800_dg080_ln010.wav">He&apos;ll be here in a minute. Get ready.</text>
+      <text id="lv10_0810_dg080_ln020" actor="14out2" mood="neutral" system="lv10_0810_dg080_ln020.wav">I was born ready!</text>
+      <text id="lv10_0820_dg080_ln030" actor="15out3" mood="neutral" system="lv10_0820_dg080_ln030.wav">It won&apos;t be much longer now. Are you ready?</text>
+      <text id="lv10_0830_dg080_ln040" actor="15out3" mood="neutral" system="lv10_0830_dg080_ln040.wav">Vale! It can start now!</text>
+      <text id="lv10_0840_dg080_ln050" actor="68rev1" mood="neutral" system="lv10_0840_dg080_ln050.wav">We will succeed! Are you ready for victory?</text>
+      <text id="lv10_0850_dg080_ln060" actor="68rev1" mood="neutral" system="lv10_0850_dg080_ln060.wav">He should be here now. I can&apos;t wait.</text>
+      <text id="lv10_0860_dg080_ln070" actor="69rev2" mood="neutral" system="lv10_0860_dg080_ln070.wav">Hey amigo! Get your pistol ready! It&apos;s time to go!</text>
+      <text id="lv10_0870_dg080_ln080" actor="69rev2" mood="neutral" system="lv10_0870_dg080_ln080.wav">Ready? I&apos;m always ready!</text>
+      <text id="lv10_0880_dg080_ln090" actor="70rev3" mood="neutral" system="lv10_0880_dg080_ln090.wav">Compadre! Are you ready for the revolución?</text>
+      <text id="lv10_0890_dg080_ln100" actor="70rev3" mood="neutral" system="lv10_0890_dg080_ln100.wav">Hasta la victoria siempre!
+</text>
+    </dialog>
+
+    <dialog id="lv10_dg090">
+      <text id="lv10_0900_dg090_ln010" actor="41loli" mood="neutral" system="lv10_0900_dg090_ln010.wav">Long live El Presidente!</text>
+      <text id="lv10_0910_dg090_ln020" actor="41loli" mood="neutral" system="lv10_0910_dg090_ln020.wav">Yuppieee</text>
+      <text id="lv10_0920_dg090_ln030" actor="43barm" mood="neutral" system="lv10_0920_dg090_ln030.wav">God bless America!</text>
+      <text id="lv10_0930_dg090_ln040" actor="43barm" mood="neutral" system="lv10_0930_dg090_ln040.wav">Yeah! Yeah! Woohoo! Bravo!</text>
+      <text id="lv10_0940_dg090_ln050" actor="44bank" mood="neutral" system="lv10_0940_dg090_ln050.wav">I&apos;m a Republican too!</text>
+      <text id="lv10_0950_dg090_ln060" actor="44bank" mood="neutral" system="lv10_0950_dg090_ln060.wav">Bravo! Yeah!</text>
+      <text id="lv10_0960_dg090_ln070" actor="45post" mood="neutral" system="lv10_0960_dg090_ln070.wav">I&apos;m so lucky to be here!</text>
+      <text id="lv10_0970_dg090_ln080" actor="45post" mood="neutral" system="lv10_0970_dg090_ln080.wav">Yuppieee... Hello... Mr. President... Hello...</text>
+      <text id="lv10_0980_dg090_ln090" actor="48lady" mood="neutral" system="lv10_0980_dg090_ln090.wav">Mr. President!</text>
+      <text id="lv10_0990_dg090_ln100" actor="48lady" mood="neutral" system="lv10_0990_dg090_ln100.wav">Yuppieee</text>
+      <text id="lv10_1000_dg090_ln110" actor="53sew2" mood="neutral" system="lv10_1000_dg090_ln110.wav">God bless the President!</text>
+      <text id="lv10_1010_dg090_ln120" actor="53sew2" mood="neutral" system="lv10_1010_dg090_ln120.wav">Yuppieee</text>
+      <text id="lv10_1020_dg090_ln130" actor="64part" mood="neutral" system="lv10_1020_dg090_ln130.wav">Three cheers for America and the Republican Party!</text>
+      <text id="lv10_1030_dg090_ln140" actor="64part" mood="neutral" system="lv10_1030_dg090_ln140.wav">Yuppieee</text>
+      <text id="lv10_1040_dg090_ln150" actor="63poli" mood="neutral" system="lv10_1040_dg090_ln150.wav">Down with the Democrats!</text>
+      <text id="lv10_1050_dg090_ln160" actor="63poli" mood="neutral" system="lv10_1050_dg090_ln160.wav">Yeah…yeah… Hahaha.</text>
+      <text id="lv10_1060_dg090_ln170" actor="65girl" mood="neutral" system="lv10_1060_dg090_ln170.wav">Chester Alan Arthur, man, we love you!</text>
+      <text id="lv10_1070_dg090_ln180" actor="65girl" mood="neutral" system="lv10_1070_dg090_ln180.wav">Yuppieee</text>
+      <text id="lv10_1080_dg090_ln190" actor="72oldb" mood="neutral" system="lv10_1080_dg090_ln190.wav">Miserable dog! You rotten dog!</text>
+      <text id="lv10_1090_dg090_ln200" actor="72oldb" mood="neutral" system="lv10_1090_dg090_ln200.wav">Boo…you creep…boo…fooey!</text>
+    </dialog>
+
+    <dialog id="lv10_dg100">
+      <text id="lv10_1100_dg100_ln010" actor="02harp" mood="neutral" system="lv10_1100_dg100_ln010.wav">Hurry up! They want to kill the President if they have a chance!</text>
+      <text id="lv10_1110_dg100_ln020" actor="02harp" mood="neutral" system="lv10_1110_dg100_ln020.wav">We have no more time, men!</text>
+      <text id="lv10_1120_dg100_ln030" actor="02harp" mood="neutral" system="lv10_1120_dg100_ln030.wav">Can you see them?</text>
+      <text id="lv10_1130_dg100_ln040" actor="08ban2" mood="neutral" system="lv10_1130_dg100_ln040.wav">Have you found something?</text>
+      <text id="lv10_1140_dg100_ln050" actor="08ban2" mood="neutral" system="lv10_1140_dg100_ln050.wav">Damn! They were just here!</text>
+      <text id="lv10_1150_dg100_ln060" actor="09ban3" mood="neutral" system="lv10_1150_dg100_ln060.wav">Hm. Do you see anything?</text>
+      <text id="lv10_1160_dg100_ln070" actor="09ban3" mood="neutral" system="lv10_1160_dg100_ln070.wav">Shit! It can&apos;t be true!</text>
+      <text id="lv10_1170_dg100_ln080" actor="11ban5" mood="neutral" system="lv10_1170_dg100_ln080.wav">Is there any trace of them?</text>
+      <text id="lv10_1180_dg100_ln090" actor="11ban5" mood="neutral" system="lv10_1180_dg100_ln090.wav">Nothing. But the Mexican is a giant. He can&apos;t have just disappeared!</text>
+      <text id="lv10_1190_dg100_ln100" actor="12ban6" mood="neutral" system="lv10_1190_dg100_ln100.wav">Hey, tell me... have you found anything?</text>
+      <text id="lv10_1200_dg100_ln110" actor="12ban6" mood="neutral" system="lv10_1200_dg100_ln110.wav">No... I... I can&apos;t see &apos;em!</text>
+    </dialog>
+
+    <dialog id="lv10_dg110">
+      <text id="lv10_1210_dg110_ln010" actor="00pres" mood="neutral" system="lv10_1210_dg110_ln010.wav">Citizens of New Orleans... </text>
+      <text id="lv10_1220_dg110_ln020" actor="00pres" mood="neutral" system="lv10_1220_dg110_ln020.wav">The goal toward which we are striving is near, we need only to reach for it... </text>
+      <text id="lv10_1230_dg110_ln030" actor="00pres" mood="neutral" system="lv10_1230_dg110_ln030.wav">I give you my word... </text>
+      <text id="lv10_1240_dg110_ln040" actor="00pres" mood="neutral" system="lv10_1240_dg110_ln040.wav">We must stand together!</text>
+      <text id="lv10_1250_dg110_ln050" actor="00pres" mood="neutral" system="lv10_1250_dg110_ln050.wav">The Democrats say... I however say to you... </text>
+      <text id="lv10_1260_dg110_ln060" actor="00pres" mood="neutral" system="lv10_1260_dg110_ln060.wav">... America... </text>
+    </dialog>
+
+  </level>
+
+</resources>

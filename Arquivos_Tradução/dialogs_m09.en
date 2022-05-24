@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M09.en">
+
+<!--
+File created: 07:07:31, 12:30:43
+UNIQUE_XML_EXPORT_NUMBER: 1448
+Export initiated by: tkallweit
+-->
+
+
+  <level id="LV_09">
+    <dialog id="lv09_cs010">
+      <text id="lv09_0010_cs010_ln010" actor="John Cooper" mood="neutral" system="lv09_0010_cs010_ln010.wav">What should I do with the money and the weapons? </text>
+      <text id="lv09_0020_cs010_ln020" actor="01wido" mood="neutral" system="lv09_0020_cs010_ln020.wav">Not far from here there&apos;s a place called Blackwater.</text>
+      <text id="lv09_0030_cs010_ln030" actor="01wido" mood="neutral" system="lv09_0030_cs010_ln030.wav">My husband had one of his old depots there. Bring the weapons and money to that place, and your friend will live.</text>
+      <text id="lv09_0040_cs010_ln040" actor="Hawkeye" mood="neutral" system="lv09_0040_cs010_ln040.wav">The wind sings a cheerless song. We&apos;re like lambs being led innocently to slaughter. Hawkeye is a wolf, not a lamb.</text>
+      <text id="lv09_0050_cs010_ln050" actor="Sanchez" mood="neutral" system="lv09_0050_cs010_ln050.wav">Here are the weapons! Where is the antidote? Give it to me!</text>
+      <text id="lv09_0060_cs010_ln060" actor="14out2" mood="neutral" system="lv09_0060_cs010_ln060.wav">Please, please, amigo, not so fast.</text>
+      <text id="lv09_0070_cs010_ln070" actor="Sanchez" mood="neutral" system="lv09_0070_cs010_ln070.wav">Argh</text>
+      <text id="lv09_0080_cs010_ln080" actor="Sam" mood="neutral" system="lv09_0080_cs010_ln080.wav">Shit!</text>
+      <text id="lv09_0090_cs010_ln090" actor="Sam" mood="neutral" system="lv09_0090_cs010_ln090.wav">Argh</text>
+      <text id="lv09_0100_cs010_ln100" actor="Sanchez" mood="neutral" system="lv09_0100_cs010_ln100.wav">Owww</text>
+      <text id="lv09_0110_cs010_ln110" actor="14out2" mood="neutral" system="lv09_0110_cs010_ln110.wav">Caramba! He needs another one!</text>
+      <text id="lv09_0120_cs010_ln120" actor="69rev2" mood="neutral" system="lv09_0120_cs010_ln120.wav">Shouldn&apos;t we just start shooting?</text>
+      <text id="lv09_0130_cs010_ln130" actor="68rev1" mood="neutral" system="lv09_0130_cs010_ln130.wav">Better not to. If Fernandez doesn&apos;t take over the other entrance to the village, we might need a way to exert some pressure. </text>
+      <text id="lv09_0140_cs010_ln140" actor="Sanchez" mood="neutral" system="lv09_0140_cs010_ln140.wav">Argh</text>
+    </dialog>
+
+    <dialog id="lv09_cs020">
+      <text id="lv09_0150_cs020_ln010" actor="Doc McCoy" mood="neutral" system="lv09_0150_cs020_ln010.wav">Argh</text>
+      <text id="lv09_0160_cs020_ln020" actor="John Cooper" mood="neutral" system="lv09_0160_cs020_ln020.wav">Hawkeye? … Where are Sam and Sanchez?</text>
+      <text id="lv09_0170_cs020_ln050" actor="Hawkeye" mood="neutral" system="lv09_0170_cs020_ln050.wav">Caught…Come with me.</text>
+      <text id="lv09_0180_cs020_ln080" actor="John Cooper" mood="neutral" system="lv09_0180_cs020_ln080.wav">Mexicans.</text>
+      <text id="lv09_0190_cs020_ln090" actor="John Cooper" mood="neutral" system="lv09_0190_cs020_ln090.wav">They&apos;re all Mexicans.</text>
+      <text id="lv09_0200_cs020_ln100" actor="Hawkeye" mood="neutral" system="lv09_0200_cs020_ln100.wav">Hauw! Hawkeye hears rumors.</text>
+      <text id="lv09_0210_cs020_ln110" actor="John Cooper" mood="neutral" system="lv09_0210_cs020_ln110.wav">What kind of rumors?</text>
+      <text id="lv09_0220_cs020_ln120" actor="Hawkeye" mood="neutral" system="lv09_0220_cs020_ln120.wav">White woman in black dress fled from Mexicans. She is hiding in one of the wooden wigwams in the village.</text>
+      <text id="lv09_0230_cs020_ln130" actor="John Cooper" mood="neutral" system="lv09_0230_cs020_ln130.wav">Goodman&apos;s widow?</text>
+      <text id="lv09_0240_cs020_ln150" actor="54boy" mood="neutral" system="lv09_0240_cs020_ln150.wav">Ahhhhhhh</text>
+      <text id="lv09_0250_cs020_ln160" actor="John Cooper" mood="neutral" system="lv09_0250_cs020_ln160.wav">Look.</text>
+      <text id="lv09_0260_cs020_ln170" actor="54boy" mood="neutral" system="lv09_0260_cs020_ln170.wav">Hmpf! Hmpf!</text>
+      <text id="lv09_0270_cs020_ln180" actor="John Cooper" mood="neutral" system="lv09_0270_cs020_ln180.wav">So, do you know where Goodman&apos;s widow is hiding?</text>
+      <text id="lv09_0280_cs020_ln190" actor="John Cooper" mood="neutral" system="lv09_0280_cs020_ln190.wav">Then tell us.</text>
+      <text id="lv09_0290_cs020_ln210" actor="54boy" mood="neutral" system="lv09_0290_cs020_ln210.wav">My mother! Please! Los bandidos... they... they&apos;re hurting her! You have to help her! Then I will tell you where Miss Goodman is hiding.</text>
+      <text id="lv09_0300_cs020_ln220" actor="54boy" mood="neutral" system="lv09_0300_cs020_ln220.wav">Sob... Sob...</text>
+      <text id="lv09_0310_cs020_ln230" actor="John Cooper" mood="neutral" system="lv09_0310_cs020_ln230.wav">Ok, little man. Stop crying! Where is your mother?</text>
+    </dialog>
+
+    <dialog id="lv09_cs025">
+      <text id="lv09_0320_cs025_ln010" actor="54boy" mood="neutral" system="lv09_0320_cs025_ln010.wav">Mamá, mamá!
+</text>
+      <text id="lv09_0330_cs025_ln020" actor="41loli" mood="neutral" system="lv09_0330_cs025_ln020.wav">Sob... My boy! Are you ok?</text>
+      <text id="lv09_0340_cs025_ln030" actor="54boy" mood="neutral" system="lv09_0340_cs025_ln030.wav">Mother! You... you saved her!</text>
+      <text id="lv09_0350_cs025_ln040" actor="John Cooper" mood="neutral" system="lv09_0350_cs025_ln040.wav">And? Are you going to tell us now where Goodman&apos;s widow is hiding?</text>
+      <text id="lv09_0360_cs025_ln050" actor="54boy" mood="neutral" system="lv09_0360_cs025_ln050.wav">The señora snuck into the big house in the middle of the village. I saw her!</text>
+    </dialog>
+
+    <dialog id="lv09_cs030">
+      <text id="lv09_0370_cs030_ln010" actor="01wido" mood="neutral" system="lv09_0370_cs030_ln010.wav">So now you&apos;ve found me.</text>
+      <text id="lv09_0380_cs030_ln020" actor="John Cooper" mood="neutral" system="lv09_0380_cs030_ln020.wav">Do you have the antidote?</text>
+      <text id="lv09_0390_cs030_ln030" actor="01wido" mood="neutral" system="lv09_0390_cs030_ln030.wav">I was blackmailed, Mr. Cooper.</text>
+      <text id="lv09_0400_cs030_ln040" actor="John Cooper" mood="neutral" system="lv09_0400_cs030_ln040.wav">I understand.</text>
+      <text id="lv09_0410_cs030_ln050" actor="01wido" mood="neutral" system="lv09_0410_cs030_ln050.wav">You have to believe me. These men were formerly supported by my husband. After his death they forced me to lure you into a trap.</text>
+      <text id="lv09_0420_cs030_ln060" actor="John Cooper" mood="neutral" system="lv09_0420_cs030_ln060.wav">And by chance you happened to get away from them today. Just like that.</text>
+      <text id="lv09_0430_cs030_ln070" actor="01wido" mood="neutral" system="lv09_0430_cs030_ln070.wav">I heard that you were coming tonight. And I hoped...that you would help me.</text>
+      <text id="lv09_0440_cs030_ln080" actor="John Cooper" mood="neutral" system="lv09_0440_cs030_ln080.wav">Help you?</text>
+      <text id="lv09_0450_cs030_ln090" actor="01wido" mood="neutral" system="lv09_0450_cs030_ln090.wav">Sob... Sob...</text>
+      <text id="lv09_0460_cs030_ln100" actor="01wido" mood="neutral" system="lv09_0460_cs030_ln100.wav">They are holding my son hostage…</text>
+      <text id="lv09_0470_cs030_ln110" actor="01wido" mood="neutral" system="lv09_0470_cs030_ln110.wav">Please... help me.</text>
+      <text id="lv09_0480_cs030_ln120" actor="Doc McCoy" mood="neutral" system="lv09_0480_cs030_ln120.wav">Hellfire and damnation!</text>
+      <text id="lv09_0490_cs030_ln130" actor="John Cooper" mood="neutral" system="lv09_0490_cs030_ln130.wav">Get up, Doc.</text>
+      <text id="lv09_0500_cs030_ln140" actor="01wido" mood="neutral" system="lv09_0500_cs030_ln140.wav">Sob... Sob...</text>
+      <text id="lv09_0510_cs030_ln150" actor="John Cooper" mood="neutral" system="lv09_0510_cs030_ln150.wav">We&apos;ll save your boy.</text>
+      <text id="lv09_0520_cs030_ln160" actor="68rev1" mood="neutral" system="lv09_0520_cs030_ln160.wav">So you know where Goodman&apos;s widow is?</text>
+      <text id="lv09_0530_cs030_ln170" actor="68rev1" mood="neutral" system="lv09_0530_cs030_ln170.wav">Go ahead and tell us.</text>
+      <text id="lv09_0540_cs030_ln180" actor="68rev1" mood="neutral" system="lv09_0540_cs030_ln180.wav">Ha ha ha</text>
+      <text id="lv09_0550_cs030_ln190" actor="68rev1" mood="neutral" system="lv09_0550_cs030_ln190.wav">Clever little boy! Here... for you.</text>
+    </dialog>
+
+    <dialog id="lv09_cs040">
+      <text id="lv09_0560_cs040_ln010" actor="Doc McCoy" mood="neutral" system="lv09_0560_cs040_ln010.wav">Umpf</text>
+      <text id="lv09_0570_cs040_ln030" actor="Doc McCoy" mood="neutral" system="lv09_0570_cs040_ln030.wav">If you piss yourself, I&apos;ll drop you.</text>
+      <text id="lv09_0580_cs040_ln050" actor="Doc McCoy" mood="neutral" system="lv09_0580_cs040_ln050.wav">Grunt</text>
+      <text id="lv09_0590_cs040_ln060" actor="Doc McCoy" mood="neutral" system="lv09_0590_cs040_ln060.wav">Rotten bastard! Time for you to let go!</text>
+      <text id="lv09_0600_cs040_ln070" actor="Doc McCoy" mood="neutral" system="lv09_0600_cs040_ln070.wav">Umpf</text>
+      <text id="lv09_0610_cs040_ln080" actor="01wido" mood="neutral" system="lv09_0610_cs040_ln080.wav">Sob... Sob...</text>
+      <text id="lv09_0620_cs040_ln090" actor="Doc McCoy" mood="neutral" system="lv09_0620_cs040_ln090.wav">What a monster!</text>
+      <text id="lv09_0630_cs040_ln100" actor="Kate OHara" mood="neutral" system="lv09_0630_cs040_ln100.wav">Waiting for you October 15th in New Orleans. Hasta la victoria siempre! El Cortador.</text>
+      <text id="lv09_0640_cs040_ln110" actor="John Cooper" mood="neutral" system="lv09_0640_cs040_ln110.wav">Hm.</text>
+      <text id="lv09_0650_cs040_ln120" actor="John Cooper" mood="neutral" system="lv09_0650_cs040_ln120.wav">Look here. Chester Alan Arthur, our President, will give a speech on October 17th. In front of the town hall in New Orleans.</text>
+      <text id="lv09_0660_cs040_ln130" actor="John Cooper" mood="neutral" system="lv09_0660_cs040_ln130.wav">I&apos;ll be damned! They want to kill the President.</text>
+      <text id="lv09_0670_cs040_ln140" actor="John Cooper" mood="neutral" system="lv09_0670_cs040_ln140.wav">Pack up your things, Kate. We&apos;re riding to New Orleans.</text>
+      <text id="lv09_0680_cs040_ln150" actor="Kate OHara" mood="neutral" system="lv09_0680_cs040_ln150.wav">To save the President?</text>
+      <text id="lv09_0690_cs040_ln160" actor="John Cooper" mood="neutral" system="lv09_0690_cs040_ln160.wav">What better way to prove our innocence?</text>
+      <text id="lv09_0700_cs040_ln162" actor="Hawkeye" mood="neutral" system="lv09_0700_cs040_ln162.wav">Hawkeye has riden too long with white brothers. It&apos;s time for him to return to his village, to his tribe.</text>
+      <text id="lv09_0710_cs040_ln165" actor="Hawkeye" mood="neutral" system="lv09_0710_cs040_ln165.wav">May Manitou guide you safely on your way.</text>
+      <text id="lv09_0720_cs040_ln168" actor="John Cooper" mood="neutral" system="lv09_0720_cs040_ln168.wav">And you on yours, my friend.</text>
+      <text id="lv09_0730_cs040_ln170" actor="54boy" mood="neutral" system="lv09_0730_cs040_ln170.wav">El grande bandido! I know him, he was here today!</text>
+      <text id="lv09_0740_cs040_ln180" actor="09ban3" mood="neutral" system="lv09_0740_cs040_ln180.wav">Are you sure?</text>
+      <text id="lv09_0750_cs040_ln190" actor="54boy" mood="neutral" system="lv09_0750_cs040_ln190.wav">Yes! Yes! They rode off. That way.</text>
+      <text id="lv09_0760_cs040_ln200" actor="02harp" mood="neutral" system="lv09_0760_cs040_ln200.wav">Time to go, men! We&apos;re closing in on them.</text>
+    </dialog>
+
+    <dialog id="lv09_dg010">
+      <text id="lv09_0770_dg010_ln010" actor="14out2" mood="neutral" system="lv09_0770_dg010_ln010.wav">The black dove has flown away. It&apos;s hiding in one of the houses!</text>
+      <text id="lv09_0780_dg010_ln020" actor="15out3" mood="neutral" system="lv09_0780_dg010_ln020.wav">The widow is gone. We need to look for her!</text>
+      <text id="lv09_0790_dg010_ln030" actor="68rev1" mood="neutral" system="lv09_0790_dg010_ln030.wav">Goodman&apos;s widow took off. Keep looking till you find her! </text>
+      <text id="lv09_0800_dg010_ln040" actor="69rev2" mood="neutral" system="lv09_0800_dg010_ln040.wav">Hey amigo! Have you seen the widow? We&apos;re looking for her everywhere.</text>
+      <text id="lv09_0810_dg010_ln050" actor="70rev3" mood="neutral" system="lv09_0810_dg010_ln050.wav">The widow has been plotting against us! We have to find her!</text>
+    </dialog>
+
+    <dialog id="lv09_dg020">
+      <text id="lv09_0820_dg020_ln010" actor="14out2" mood="neutral" system="lv09_0820_dg020_ln010.wav">Hey amigo! Everything all right with you?</text>
+      <text id="lv09_0830_dg020_ln020" actor="15out3" mood="neutral" system="lv09_0830_dg020_ln020.wav">You! Have you seen anything?</text>
+      <text id="lv09_0840_dg020_ln030" actor="68rev1" mood="neutral" system="lv09_0840_dg020_ln030.wav">Hey amigos! Any cause for concern?</text>
+      <text id="lv09_0850_dg020_ln040" actor="69rev2" mood="neutral" system="lv09_0850_dg020_ln040.wav">Tell me: is everything as it should be?</text>
+      <text id="lv09_0860_dg020_ln050" actor="70rev3" mood="neutral" system="lv09_0860_dg020_ln050.wav">Compadre! Any trouble?</text>
+    </dialog>
+
+    <dialog id="lv09_dg030">
+      <text id="lv09_0870_dg030_ln010" actor="14out2" mood="neutral" system="lv09_0870_dg030_ln010.wav">Why do you keep asking? Are you bored?</text>
+      <text id="lv09_0880_dg030_ln020" actor="15out3" mood="neutral" system="lv09_0880_dg030_ln020.wav">Nothing going on here, nothing at all!</text>
+      <text id="lv09_0890_dg030_ln030" actor="68rev1" mood="neutral" system="lv09_0890_dg030_ln030.wav">When they&apos;re here, I&apos;ll call you, ok?</text>
+      <text id="lv09_0900_dg030_ln040" actor="69rev2" mood="neutral" system="lv09_0900_dg030_ln040.wav">You can drink your tequila in peace. Everything is quiet here!</text>
+      <text id="lv09_0910_dg030_ln050" actor="70rev3" mood="neutral" system="lv09_0910_dg030_ln050.wav">Don&apos;t worry, compadre, the night is quiet.</text>
+    </dialog>
+
+    <dialog id="lv09_dg040">
+      <text id="lv09_0920_dg040_ln010" actor="68rev1" mood="neutral" system="lv09_0920_dg040_ln010.wav">Keep your heads down and be quiet! They&apos;ll be coming soon!</text>
+      <text id="lv09_0930_dg040_ln020" actor="69rev2" mood="neutral" system="lv09_0930_dg040_ln020.wav">What will we do when they get here?</text>
+      <text id="lv09_0940_dg040_ln030" actor="68rev1" mood="neutral" system="lv09_0940_dg040_ln030.wav">Shoot, what else?</text>
+    </dialog>
+
+    <dialog id="lv09_dg050">
+      <text id="lv09_0950_dg050_ln010" actor="14out2" mood="neutral" system="lv09_0950_dg050_ln010.wav">Do it, my little dove, dance for us!</text>
+      <text id="lv09_0960_dg050_ln020" actor="14out2" mood="neutral" system="lv09_0960_dg050_ln020.wav">Ha ha ha, he he...</text>
+      <text id="lv09_0970_dg050_ln030" actor="15out3" mood="neutral" system="lv09_0970_dg050_ln030.wav">Kiss me, lovely señorita!</text>
+      <text id="lv09_0980_dg050_ln040" actor="15out3" mood="neutral" system="lv09_0980_dg050_ln040.wav">Fiu... Fiuuuuu...</text>
+      <text id="lv09_0990_dg050_ln050" actor="68rev1" mood="neutral" system="lv09_0990_dg050_ln050.wav">Do I need a revolver to make you dance?</text>
+      <text id="lv09_1000_dg050_ln060" actor="68rev1" mood="neutral" system="lv09_1000_dg050_ln060.wav">Fiu... Fiuuuuu...</text>
+      <text id="lv09_1010_dg050_ln070" actor="69rev2" mood="neutral" system="lv09_1010_dg050_ln070.wav">A beautiful woman and tequila! This is a great revolución, believe me!</text>
+      <text id="lv09_1020_dg050_ln080" actor="69rev2" mood="neutral" system="lv09_1020_dg050_ln080.wav">Ha ha ha ha</text>
+      <text id="lv09_1030_dg050_ln090" actor="70rev3" mood="neutral" system="lv09_1030_dg050_ln090.wav">We are here to set you free. You should be laughing, not crying!</text>
+      <text id="lv09_1040_dg050_ln100" actor="70rev3" mood="neutral" system="lv09_1040_dg050_ln100.wav">Ha ha ha...</text>
+      <text id="lv09_1050_dg050_ln110" actor="41loli" mood="neutral" system="lv09_1050_dg050_ln110.wav">Please! Don&apos;t hurt me!</text>
+      <text id="lv09_1060_dg050_ln120" actor="41loli" mood="neutral" system="lv09_1060_dg050_ln120.wav">No, no!</text>
+      <text id="lv09_1070_dg050_ln130" actor="41loli" mood="neutral" system="lv09_1070_dg050_ln130.wav">Sob... Sob...</text>
+    </dialog>
+
+    <dialog id="lv09_dg080">
+      <text id="lv09_1080_dg080_ln010" actor="14out2" mood="neutral" system="lv09_1080_dg080_ln010.wav">Throw down your weapons and come out with your hands up!</text>
+      <text id="lv09_1090_dg080_ln020" actor="15out3" mood="neutral" system="lv09_1090_dg080_ln020.wav">Surrender! You have no chance!</text>
+      <text id="lv09_1100_dg080_ln030" actor="68rev1" mood="neutral" system="lv09_1100_dg080_ln030.wav">Give up, you&apos;re surrounded!</text>
+      <text id="lv09_1110_dg080_ln040" actor="68rev1" mood="neutral" system="lv09_1110_dg080_ln040.wav">Come out of your holes, you miserable dogs!</text>
+      <text id="lv09_1120_dg080_ln050" actor="70rev3" mood="neutral" system="lv09_1120_dg080_ln050.wav">In the name of the revolución, surrender!</text>
+    </dialog>
+
+    <dialog id="lv09_dg090">
+      <text id="lv09_1130_dg090_ln010" actor="Sam" mood="neutral" system="lv09_1130_dg090_ln010.wav">Graças a Deus! Pensei que estávamos mortos.</text>
+    </dialog>
+
+    <dialog id="lv09_dg100">
+      <text id="lv09_1140_dg100_ln010" actor="69rev2" mood="neutral" system="lv09_1140_dg100_ln010.wav">Estamos deixando tudo aqui? Pensei que iam levar conosco.</text>
+      <text id="lv09_1150_dg100_ln020" actor="68rev1" mood="neutral" system="lv09_1150_dg100_ln020.wav">No! After we&apos;ve completed our mission in New Orleans, we&apos;ll need the weapons here to free New Mexico!</text>
+      <text id="lv09_1160_dg100_ln030" actor="69rev2" mood="neutral" system="lv09_1160_dg100_ln030.wav">I don&apos;t understand!</text>
+      <text id="lv09_1170_dg100_ln040" actor="68rev1" mood="neutral" system="lv09_1170_dg100_ln040.wav">Wait until New Orleans. El Cortador will explain it to you. </text>
+    </dialog>
+
+  </level>
+
+</resources>        

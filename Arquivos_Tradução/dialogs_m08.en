@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M08.en">
+
+<!--
+File created: 07:07:31, 12:30:43
+UNIQUE_XML_EXPORT_NUMBER: 1448
+Export initiated by: tkallweit
+-->
+
+
+  <level id="LV_08">
+    <dialog id="lv08_cs010">
+      <text id="lv08_0010_cs010_ln010" actor="01wido" mood="neutral" system="lv08_0010_cs010_ln010.wav">The weapons from the train are not the only thing I expect in return for your friends&apos; lives. </text>
+      <text id="lv08_0020_cs010_ln020" actor="01wido" mood="neutral" system="lv08_0020_cs010_ln020.wav">I have another job for you, right here in Santa Fe.</text>
+      <text id="lv08_0030_cs010_ln030" actor="01wido" mood="neutral" system="lv08_0030_cs010_ln030.wav">The day after the attack on the relay station a shipment of money is expected in the city.</text>
+      <text id="lv08_0040_cs010_ln040" actor="01wido" mood="neutral" system="lv08_0040_cs010_ln040.wav">The money will be kept in the bank overnight.</text>
+      <text id="lv08_0050_cs010_ln050" actor="01wido" mood="neutral" system="lv08_0050_cs010_ln050.wav">An opportune time for a robbery. Don&apos;t you agree, Mr. Cooper?</text>
+      <text id="lv08_0060_cs010_ln060" actor="Kate OHara" mood="neutral" system="lv08_0060_cs010_ln060.wav">Everything would be easier if it weren&apos;t for that misunderstanding with the wanted posters.</text>
+      <text id="lv08_0070_cs010_ln070" actor="John Cooper" mood="neutral" system="lv08_0070_cs010_ln070.wav">Umpf!</text>
+      <text id="lv08_0080_cs010_ln080" actor="John Cooper" mood="neutral" system="lv08_0080_cs010_ln080.wav">You stay here. I&apos;m going to the building over there, on the other side of the bank. </text>
+      <text id="lv08_0090_cs010_ln090" actor="John Cooper" mood="neutral" system="lv08_0090_cs010_ln090.wav">From there I should be able to see the guards at both the front and rear entrances. </text>
+      <text id="lv08_0100_cs010_ln100" actor="Kate OHara" mood="neutral" system="lv08_0100_cs010_ln100.wav">Make sure no one sees you, dear.</text>
+    </dialog>
+
+    <dialog id="lv08_cs020">
+      <text id="lv08_0110_cs020_ln010" actor="John Cooper" mood="neutral" system="lv08_0110_cs020_ln010.wav">What are you doing, Kate? You should be in the church.</text>
+      <text id="lv08_0120_cs020_ln020" actor="Kate OHara" mood="neutral" system="lv08_0120_cs020_ln020.wav">John, you&apos;re sweet!</text>
+      <text id="lv08_0130_cs020_ln030" actor="John Cooper" mood="neutral" system="lv08_0130_cs020_ln030.wav">Errr...</text>
+      <text id="lv08_0140_cs020_ln040" actor="Kate OHara" mood="neutral" system="lv08_0140_cs020_ln040.wav">Do you have any money, John? There&apos;s a poker game at the Golden Coin Saloon tonight.</text>
+      <text id="lv08_0150_cs020_ln050" actor="John Cooper" mood="neutral" system="lv08_0150_cs020_ln050.wav">What are you thinking, Kate?</text>
+      <text id="lv08_0160_cs020_ln060" actor="Kate OHara" mood="neutral" system="lv08_0160_cs020_ln060.wav">A scam. But this time I&apos;ll let myself get caught. A little commotion in the saloon should draw attention away from the bank.</text>
+      <text id="lv08_0170_cs020_ln070" actor="John Cooper" mood="neutral" system="lv08_0170_cs020_ln070.wav">Nice idea, but there are wanted posters of you all over the place. Did you forget?</text>
+      <text id="lv08_0180_cs020_ln080" actor="Kate OHara" mood="neutral" system="lv08_0180_cs020_ln080.wav">Of course not! I&apos;ll just borrow a wig and a dress from the ladies who dance in the saloon. </text>
+    </dialog>
+
+    <dialog id="lv08_cs030">
+      <text id="lv08_0190_cs030_ln010" actor="08ban2" mood="neutral" system="lv08_0190_cs030_ln010.wav">Mmmmmm...</text>
+      <text id="lv08_0200_cs030_ln020" actor="11ban5" mood="neutral" system="lv08_0200_cs030_ln020.wav">I don&apos;t like it when someone whispers to a player at my table.</text>
+      <text id="lv08_0210_cs030_ln030" actor="44bank" mood="neutral" system="lv08_0210_cs030_ln030.wav">My friend said that the pretty lady next to you has a queen of hearts in her garter.</text>
+      <text id="lv08_0220_cs030_ln040" actor="11ban5" mood="neutral" system="lv08_0220_cs030_ln040.wav">Nobody cheats me at poker.</text>
+      <text id="lv08_0230_cs030_ln050" actor="Kate OHara" mood="neutral" system="lv08_0230_cs030_ln050.wav">Pfffffft...</text>
+      <text id="lv08_0240_cs030_ln060" actor="11ban5" mood="neutral" system="lv08_0240_cs030_ln060.wav">Arghhhh</text>
+      <text id="lv08_0250_cs030_ln070" actor="13out1" mood="neutral" system="lv08_0250_cs030_ln070.wav">Argh!</text>
+      <text id="lv08_0260_cs030_ln080" actor="14out2" mood="neutral" system="lv08_0260_cs030_ln080.wav">You rotten dog! You shot my brother!</text>
+      <text id="lv08_0270_cs030_ln090" actor="11ban5" mood="neutral" system="lv08_0270_cs030_ln090.wav">Ahhh</text>
+      <text id="lv08_0280_cs030_ln100" actor="09ban3" mood="neutral" system="lv08_0280_cs030_ln100.wav">Arrrrgh</text>
+      <text id="lv08_0290_cs030_ln110" actor="43barm" mood="neutral" system="lv08_0290_cs030_ln110.wav">Oh no! Not again!</text>
+      <text id="lv08_0300_cs030_ln120" actor="08ban2" mood="neutral" system="lv08_0300_cs030_ln120.wav">You&apos;re staying here!</text>
+      <text id="lv08_0310_cs030_ln130" actor="09ban3" mood="neutral" system="lv08_0310_cs030_ln130.wav">Argh</text>
+      <text id="lv08_0320_cs030_ln140" actor="20sol2" mood="neutral" system="lv08_0320_cs030_ln140.wav">Hey you, with the red hair! Don&apos;t move!</text>
+      <text id="lv08_0330_cs030_ln150" actor="15out3" mood="neutral" system="lv08_0330_cs030_ln150.wav">Arrrrgh</text>
+      <text id="lv08_0340_cs030_ln160" actor="20sol2" mood="neutral" system="lv08_0340_cs030_ln160.wav">Ohhh</text>
+      <text id="lv08_0350_cs030_ln170" actor="25sol7" mood="neutral" system="lv08_0350_cs030_ln170.wav">Hell is breaking loose in the saloon, sir!</text>
+      <text id="lv08_0360_cs030_ln180" actor="21sol3" mood="neutral" system="lv08_0360_cs030_ln180.wav">Dammit! I really don&apos;t need this aggravation tonight. Take a few men with you, and establish order!</text>
+      <text id="lv08_0370_cs030_ln190" actor="25sol7" mood="neutral" system="lv08_0370_cs030_ln190.wav">Sir, yes sir!</text>
+      <text id="lv08_0380_cs030_ln200" actor="John Cooper" mood="neutral" system="lv08_0380_cs030_ln200.wav">Damn!</text>
+    </dialog>
+
+    <dialog id="lv08_cs040">
+      <text id="lv08_0390_cs040_ln010" actor="John Cooper" mood="neutral" system="lv08_0390_cs040_ln010.wav">Stones, nothing but stones.</text>
+      <text id="lv08_0400_cs040_ln020" actor="Kate OHara" mood="neutral" system="lv08_0400_cs040_ln020.wav">Here too.</text>
+      <text id="lv08_0410_cs040_ln030" actor="44bank" mood="neutral" system="lv08_0410_cs040_ln030.wav">I... I&apos;m just as surprised as you are, Mr. Cooper. Really!</text>
+      <text id="lv08_0420_cs040_ln040" actor="John Cooper" mood="neutral" system="lv08_0420_cs040_ln040.wav">Grunt.</text>
+      <text id="lv08_0430_cs040_ln050" actor="John Cooper" mood="neutral" system="lv08_0430_cs040_ln050.wav">Grrrr</text>
+      <text id="lv08_0440_cs040_ln060" actor="John Cooper" mood="neutral" system="lv08_0440_cs040_ln060.wav">Cough... Cough</text>
+      <text id="lv08_0450_cs040_ln070" actor="66msk1" mood="neutral" system="lv08_0450_cs040_ln070.wav">Wow! It worked! We&apos;re in! ...He he he he he.</text>
+      <text id="lv08_0460_cs040_ln080" actor="67msk2" mood="neutral" system="lv08_0460_cs040_ln080.wav">Shut up!</text>
+      <text id="lv08_0470_cs040_ln090" actor="John Cooper" mood="neutral" system="lv08_0470_cs040_ln090.wav">Ohhh</text>
+      <text id="lv08_0480_cs040_ln100" actor="67msk2" mood="neutral" system="lv08_0480_cs040_ln100.wav">Hands up, this is an ambush!</text>
+      <text id="lv08_0490_cs040_ln110" actor="66msk1" mood="neutral" system="lv08_0490_cs040_ln110.wav">That&apos;s right... hi hi hi... Hands up.</text>
+      <text id="lv08_0500_cs040_ln120" actor="44bank" mood="neutral" system="lv08_0500_cs040_ln120.wav">Weeee... Weee...</text>
+      <text id="lv08_0510_cs040_ln130" actor="67msk2" mood="neutral" system="lv08_0510_cs040_ln130.wav">Owww</text>
+      <text id="lv08_0520_cs040_ln140" actor="66msk1" mood="neutral" system="lv08_0520_cs040_ln140.wav">Please...  weeeeh... no... don&apos;t shoot.</text>
+      <text id="lv08_0530_cs040_ln150" actor="John Cooper" mood="neutral" system="lv08_0530_cs040_ln150.wav">Coward!</text>
+      <text id="lv08_0540_cs040_ln160" actor="21sol3" mood="neutral" system="lv08_0540_cs040_ln160.wav">Storm the bank!</text>
+      <text id="lv08_0550_cs040_ln170" actor="Kate OHara" mood="neutral" system="lv08_0550_cs040_ln170.wav">Time to get out of here.</text>
+      <text id="lv08_0560_cs040_ln220" actor="Doc McCoy" mood="neutral" system="lv08_0560_cs040_ln220.wav">Grrrrr...</text>
+      <text id="lv08_0570_cs040_ln230" actor="John Cooper" mood="neutral" system="lv08_0570_cs040_ln230.wav">How are you doing, Doc? Can you help us?</text>
+      <text id="lv08_0580_cs040_ln240" actor="Doc McCoy" mood="neutral" system="lv08_0580_cs040_ln240.wav">I... I need to sit down for a while.</text>
+      <text id="lv08_0590_cs040_ln250" actor="John Cooper" mood="neutral" system="lv08_0590_cs040_ln250.wav">How many fingers do you see?</text>
+      <text id="lv08_0600_cs040_ln260" actor="Doc McCoy" mood="neutral" system="lv08_0600_cs040_ln260.wav">Owww...</text>
+      <text id="lv08_0610_cs040_ln270" actor="Doc McCoy" mood="neutral" system="lv08_0610_cs040_ln270.wav">Too many. But I could still hit them. </text>
+      <text id="lv08_0620_cs040_ln280" actor="Doc McCoy" mood="neutral" system="lv08_0620_cs040_ln280.wav">What should I do?</text>
+      <text id="lv08_0630_cs040_ln300" actor="John Cooper" mood="neutral" system="lv08_0630_cs040_ln300.wav">The bank was a trap, my friend.</text>
+      <text id="lv08_0640_cs040_ln310" actor="Doc McCoy" mood="neutral" system="lv08_0640_cs040_ln310.wav">Owww...</text>
+      <text id="lv08_0650_cs040_ln320" actor="John Cooper" mood="neutral" system="lv08_0650_cs040_ln320.wav">They carried sacks of rocks into the bank and left the money on the coach. I think they&apos;re hiding it in the barn over there. </text>
+      <text id="lv08_0660_cs040_ln330" actor="Doc McCoy" mood="neutral" system="lv08_0660_cs040_ln330.wav">I understand. I&apos;ll go have a closer look at that barn. </text>
+      <text id="lv08_0670_cs040_ln340" actor="Doc McCoy" mood="neutral" system="lv08_0670_cs040_ln340.wav">You&apos;re right, John. There are a lot of guards for a a few broken down old horses. </text>
+    </dialog>
+
+    <dialog id="lv08_cs050">
+      <text id="lv08_0680_cs050_ln010" actor="John Cooper" mood="neutral" system="lv08_0680_cs050_ln010.wav">All right then.</text>
+      <text id="lv08_0690_cs050_ln020" actor="John Cooper" mood="neutral" system="lv08_0690_cs050_ln020.wav">Hya!</text>
+      <text id="lv08_0700_cs050_ln030" actor="25sol7" mood="neutral" system="lv08_0700_cs050_ln030.wav">Holy shit!</text>
+      <text id="lv08_0710_cs050_ln040" actor="25sol7" mood="neutral" system="lv08_0710_cs050_ln040.wav">Stop right where you are! Don&apos;t move!</text>
+    </dialog>
+
+    <dialog id="lv08_dg010">
+      <text id="lv08_0720_dg010_ln010" actor="41loli" mood="neutral" system="lv08_0720_dg010_ln010.wav">Cara dura! They won&apos;t let us into the bank!</text>
+      <text id="lv08_0730_dg010_ln020" actor="43barm" mood="neutral" system="lv08_0730_dg010_ln020.wav">Why is the bank closed?</text>
+      <text id="lv08_0740_dg010_ln030" actor="44bank" mood="neutral" system="lv08_0740_dg010_ln030.wav">They can&apos;t do that! I have business to take care of!</text>
+      <text id="lv08_0750_dg010_ln040" actor="45post" mood="neutral" system="lv08_0750_dg010_ln040.wav">You... you bastards! I want my money, right now!</text>
+      <text id="lv08_0760_dg010_ln050" actor="48lady" mood="neutral" system="lv08_0760_dg010_ln050.wav">Sheriff! What&apos;s the meaning of this?</text>
+      <text id="lv08_0770_dg010_ln060" actor="53sew2" mood="neutral" system="lv08_0770_dg010_ln060.wav">Oh no! Was there a robbery?</text>
+      <text id="lv08_0780_dg010_ln070" actor="72oldb" mood="neutral" system="lv08_0780_dg010_ln070.wav">Miserable dogs! If I were ten years younger!</text>
+    </dialog>
+
+    <dialog id="lv08_dg020">
+      <text id="lv08_0790_dg020_ln010" actor="21sol3" mood="neutral" system="lv08_0790_dg020_ln010.wav">Please calm down, and step away from the bank!</text>
+      <text id="lv08_0800_dg020_ln020" actor="21sol3" mood="neutral" system="lv08_0800_dg020_ln020.wav">Don&apos;t stand here! Please, move along.</text>
+      <text id="lv08_0810_dg020_ln030" actor="30she2" mood="neutral" system="lv08_0810_dg020_ln030.wav">Everything is all right! You don&apos;t need to worry!</text>
+      <text id="lv08_0820_dg020_ln040" actor="30she2" mood="neutral" system="lv08_0820_dg020_ln040.wav">No, no one has robbed the bank, and no one&apos;s going to rob it.</text>
+    </dialog>
+
+    <dialog id="lv08_dg030">
+      <text id="lv08_0830_dg030_ln010" actor="48lady" mood="neutral" system="lv08_0830_dg030_ln010.wav">Have you heard, dears?</text>
+      <text id="lv08_0840_dg030_ln020" actor="41loli" mood="neutral" system="lv08_0840_dg030_ln020.wav">What should I have heard?</text>
+      <text id="lv08_0850_dg030_ln030" actor="48lady" mood="neutral" system="lv08_0850_dg030_ln030.wav">The sheriff&apos;s expecting a bank robbery! Cooper and his gang are actually planning to rob the bank again!</text>
+      <text id="lv08_0860_dg030_ln040" actor="41loli" mood="neutral" system="lv08_0860_dg030_ln040.wav">Jesus and Maria, is that true?</text>
+      <text id="lv08_0870_dg030_ln050" actor="48lady" mood="neutral" system="lv08_0870_dg030_ln050.wav">Unfortunately.</text>
+      <text id="lv08_0880_dg030_ln060" actor="65girl" mood="neutral" system="lv08_0880_dg030_ln060.wav">Cooper and his gang... they&apos;re miles away from here. But the McLaine brothers are back in town. They&apos;ve robbed three banks in the past month... </text>
+    </dialog>
+
+    <dialog id="lv08_dg040">
+      <text id="lv08_0890_dg040_ln010" actor="20sol2" mood="neutral" system="lv08_0890_dg040_ln010.wav">Anything to report, soldier?</text>
+      <text id="lv08_0900_dg040_ln020" actor="21sol3" mood="neutral" system="lv08_0900_dg040_ln020.wav">How are you doing, soldier?</text>
+      <text id="lv08_0910_dg040_ln030" actor="22sol4" mood="neutral" system="lv08_0910_dg040_ln030.wav">Everything is quiet here. How about with you?</text>
+      <text id="lv08_0920_dg040_ln040" actor="25sol7" mood="neutral" system="lv08_0920_dg040_ln040.wav">Damn it to hell! I&apos;ve been standing here forever, and nothing is happening. How are things on your end?</text>
+    </dialog>
+
+    <dialog id="lv08_dg050">
+      <text id="lv08_0930_dg050_ln010" actor="22sol4" mood="neutral" system="lv08_0930_dg050_ln010.wav">Everything is quiet here, sir!</text>
+      <text id="lv08_0940_dg050_ln020" actor="22sol4" mood="neutral" system="lv08_0940_dg050_ln020.wav">Nothing happening here, nothing at all!</text>
+      <text id="lv08_0950_dg050_ln030" actor="25sol7" mood="neutral" system="lv08_0950_dg050_ln030.wav">It&apos;s damn quiet here, sir!</text>
+      <text id="lv08_0960_dg050_ln040" actor="25sol7" mood="neutral" system="lv08_0960_dg050_ln040.wav">Yawn...  Do I look like I&apos;ve seen a bandit? All right then!</text>
+    </dialog>
+
+    <dialog id="lv08_dg060">
+      <text id="lv08_0970_dg060_ln010" actor="41loli" mood="neutral" system="lv08_0970_dg060_ln010.wav">Anyone know what&apos;s going on?</text>
+      <text id="lv08_0980_dg060_ln020" actor="43barm" mood="neutral" system="lv08_0980_dg060_ln020.wav">A brawl! They say there was a brawl in the saloon!</text>
+      <text id="lv08_0990_dg060_ln030" actor="44bank" mood="neutral" system="lv08_0990_dg060_ln030.wav">They should be locked up, all of them!</text>
+      <text id="lv08_1000_dg060_ln040" actor="45post" mood="neutral" system="lv08_1000_dg060_ln040.wav">He he he... Any dead? Wounded?</text>
+      <text id="lv08_1010_dg060_ln050" actor="48lady" mood="neutral" system="lv08_1010_dg060_ln050.wav">Poker games like that should be banned. They cause nothing but trouble!</text>
+      <text id="lv08_1020_dg060_ln060" actor="53sew2" mood="neutral" system="lv08_1020_dg060_ln060.wav">I heard that there were shots fired!</text>
+      <text id="lv08_1030_dg060_ln070" actor="72oldb" mood="neutral" system="lv08_1030_dg060_ln070.wav">I wanted to join in, but my back&apos;s been hurting!</text>
+    </dialog>
+
+    <dialog id="lv08_dg070">
+      <text id="lv08_1040_dg070_ln010" actor="65girl" mood="neutral" system="lv08_1040_dg070_ln010.wav">Someone stole a wig, and my best dress too!</text>
+      <text id="lv08_1050_dg070_ln020" actor="14out2" mood="neutral" system="lv08_1050_dg070_ln020.wav">That swine shot my brother!</text>
+      <text id="lv08_1060_dg070_ln030" actor="43barm" mood="neutral" system="lv08_1060_dg070_ln030.wav">They smashed up everything in my saloon!</text>
+      <text id="lv08_1070_dg070_ln040" actor="22sol4" mood="neutral" system="lv08_1070_dg070_ln040.wav">The woman from the wanted posters... I... I saw her in the saloon.</text>
+      <text id="lv08_1080_dg070_ln050" actor="11ban5" mood="neutral" system="lv08_1080_dg070_ln050.wav">There... there was a redheaded whore... she... she had a queen of hearts in her garter belt. </text>
+      <text id="lv08_1090_dg070_ln060" actor="44bank" mood="neutral" system="lv08_1090_dg070_ln060.wav">I... I can&apos;t confirm that!</text>
+      <text id="lv08_1100_dg070_ln070" actor="30she2" mood="neutral" system="lv08_1100_dg070_ln070.wav">Ladies and gentlemen, please, let other people have their say!</text>
+      <text id="lv08_1110_dg070_ln080" actor="30she2" mood="neutral" system="lv08_1110_dg070_ln080.wav">Please try to calm down first!</text>
+      <text id="lv08_1120_dg070_ln090" actor="30she2" mood="neutral" system="lv08_1120_dg070_ln090.wav">Quiet! Damn it! Quiet!</text>
+    </dialog>
+
+    <dialog id="lv08_dg080">
+      <text id="lv08_1130_dg080_ln010" actor="25sol7" mood="neutral" system="lv08_1130_dg080_ln010.wav">Ha ha ha... They say there was a brawl in the saloon, that&apos;s why all the goddamn noise. </text>
+      <text id="lv08_1140_dg080_ln020" actor="22sol4" mood="neutral" system="lv08_1140_dg080_ln020.wav">A brawl? No! I heard that someone robbed the bank.</text>
+      <text id="lv08_1150_dg080_ln030" actor="25sol7" mood="neutral" system="lv08_1150_dg080_ln030.wav">Lousy bastards! And they just leave us here rotting away!</text>
+    </dialog>
+
+  </level>
+
+</resources>

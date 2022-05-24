@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M07.en">
+
+<!--
+File created: 07:07:31, 12:30:43
+UNIQUE_XML_EXPORT_NUMBER: 1448
+Export initiated by: tkallweit
+-->
+
+
+  <level id="LV_07">
+    <dialog id="lv00_dg010">
+      <text id="lv00_2000_dg010_ln010" actor="John Cooper" mood="neutral" system="">Rochester Cliffs… A dead oak tree… Go to the oak, and there you&apos;ll find further instructions.</text>
+      <text id="lv00_2010_dg010_ln020" actor="John Cooper" mood="neutral" system="">So where&apos;s the damn tree?</text>
+      <text id="lv00_2020_dg010_ln030" actor="Sprecherin" mood="neutral" system="">Right now you are seeing just a small part of the field of play. Open the minimap to get an overview, where you&apos;ll see the dead oak marked.</text>
+      <text id="lv00_2030_dg010_ln040" actor="Sprecherin" mood="neutral" system="">Ok. Now scroll over the field of play until the dead tree is in the middle of the screen. </text>
+      <text id="lv00_2040_dg010_ln050" actor="Sprecherin" mood="neutral" system="">Very good! Now zoom out from the map until you can see Cooper on the edge of the screen.</text>
+      <text id="lv00_2050_dg010_ln060" actor="Sprecherin" mood="neutral" system="">That&apos;s Cooper! Select him.</text>
+      <text id="lv00_2060_dg010_ln070" actor="Sprecherin" mood="neutral" system="">Good. Now have Cooper go to the bag next to the tree. </text>
+      <text id="lv00_2070_dg010_ln080" actor="John Cooper" mood="neutral" system="">Damn, it&apos;s Doc&apos;s bag!</text>
+      <text id="lv00_2080_dg010_ln090" actor="Sprecherin" mood="neutral" system="">Ok. Read the note that Cooper found in Doc&apos;s bag. </text>
+      <text id="lv00_2090_dg010_ln100" actor="John Cooper" mood="neutral" system="">I&apos;m sure you recognize your friend&apos;s bag. Now you know I&apos;m serious, so don&apos;t do anything stupid. Keep walking until you reach a gravestone on the edge of the path. </text>
+      <text id="lv00_2100_dg010_ln110" actor="John Cooper" mood="neutral" system="">What is this? Some kind of damn scavenger hunt?</text>
+    </dialog>
+
+    <dialog id="lv00_dg020">
+      <text id="lv00_2110_dg020_ln010" actor="Sprecherin" mood="neutral" system="">Activate all three heroes.</text>
+      <text id="lv00_2120_dg020_ln020" actor="Sprecherin" mood="neutral" system="">Good. Have your heroes run to the gravestone, which is just a few yards further on, by the edge of the street.</text>
+      <text id="lv00_2130_dg020_ln030" actor="Sprecherin" mood="neutral" system="">You did it! Now have Cooper read the next message.</text>
+      <text id="lv00_2140_dg020_ln040" actor="John Cooper" mood="neutral" system="">There is a signpost behind the bridge. You will find further instructions there. </text>
+      <text id="lv00_2150_dg020_ln050" actor="John Cooper" mood="neutral" system="">Look. A guard. I&apos;ll take care of him!</text>
+    </dialog>
+
+    <dialog id="lv00_dg030">
+      <text id="lv00_2160_dg030_ln010" actor="Sprecherin" mood="neutral" system="">First, have Cooper stop there and activate the guard&apos;s view cone. </text>
+      <text id="lv00_2170_dg030_ln020" actor="Sprecherin" mood="neutral" system="">If you run into the view cone of an unaware enemy, he will attack you. But if you move up to the edge of the view cone carefully, he will not recognize you as a threat right away. If a view cone displays a checked pattern, that means an object is blocking the opponent&apos;s view. Depending on the size of the object, you may be able to move while ducking or crawling.</text>
+      <text id="lv00_2180_dg030_ln030" actor="Sprecherin" mood="neutral" system="">You should always perform a quick save before putting yourself in danger. That way, if anything goes wrong, you can use a quick load to get right back into the action.</text>
+      <text id="lv00_2190_dg030_ln040" actor="Sprecherin" mood="neutral" system="">Order Cooper to crouch.</text>
+      <text id="lv00_2200_dg030_ln050" actor="Sprecherin" mood="neutral" system="">Ok. Now sneak along the outer edge of the view cone, behind the rocks next to the bridge. </text>
+      <text id="lv00_2210_dg030_ln060" actor="Sprecherin" mood="neutral" system="">Good work! Now draw your revolver.</text>
+      <text id="lv00_2220_dg030_ln070" actor="Sprecherin" mood="neutral" system="">Feels good, right? Now, with your weapon drawn, find a good shooting position.</text>
+      <text id="lv00_2230_dg030_ln080" actor="Sprecherin" mood="neutral" system="">Now Cooper can clearly see the guard. Take him out.</text>
+      <text id="lv00_2240_dg030_ln090" actor="Sprecherin" mood="neutral" system="">Good work! Put the gun away and stand up.</text>
+      <text id="lv00_2250_dg030_ln100" actor="Sprecherin" mood="neutral" system="">Ok. Have Cooper go over to the corpse and lift it up.</text>
+      <text id="lv00_2260_dg030_ln110" actor="Sprecherin" mood="neutral" system="">It&apos;s heavy! Carry the corpse over behind the rocks and put it down there.</text>
+      <text id="lv00_2270_dg030_ln120" actor="John Cooper" mood="neutral" system="">Quiet now…</text>
+    </dialog>
+
+    <dialog id="lv00_dg040">
+      <text id="lv00_2280_dg040_ln010" actor="Sprecherin" mood="neutral" system="">Activate the noise tool.</text>
+      <text id="lv00_2290_dg040_ln020" actor="Sprecherin" mood="neutral" system="">Lie down on the ground, sneak up to the opponent on the bridge and knock him down. Be careful: Cooper makes more noise walking on wood than on sand.</text>
+      <text id="lv00_2300_dg040_ln030" actor="Sprecherin" mood="neutral" system="">Good work! Now have Kate tie up the unconscious guard.</text>
+      <text id="lv00_2310_dg040_ln040" actor="Sprecherin" mood="neutral" system="">Ok. Hide your heroes and their prisoners behind the rock near the signpost.</text>
+      <text id="lv00_2320_dg040_ln050" actor="Sprecherin" mood="neutral" system="">Have Cooper read the message he found behind the rock. </text>
+      <text id="lv00_2330_dg040_ln060" actor="John Cooper" mood="neutral" system="">Go through the gate. There are some crates behind the rocks and to the left. You will find another message between the crates.</text>
+    </dialog>
+
+    <dialog id="lv00_dg050">
+      <text id="lv00_2340_dg050_ln010" actor="Sprecherin" mood="neutral" system="">Choose Kate and activate her seductive powers. </text>
+      <text id="lv00_2360_dg050_ln030" actor="Sprecherin" mood="neutral" system="">Have Kate enter the enemy&apos;s view cone and wait until he approaches her. Then have Kate knock him down.</text>
+      <text id="lv00_2380_dg050_ln050" actor="Sprecherin" mood="neutral" system="">Very good! Tie up the guard and hide him behind the rock with your heroes.</text>
+      <text id="lv00_2390_dg050_ln060" actor="John Cooper" mood="neutral" system="">Argh. He&apos;s not in a good spot. I need to use my watch.</text>
+    </dialog>
+
+    <dialog id="lv00_dg060">
+      <text id="lv00_2400_dg060_ln010" actor="Sprecherin" mood="neutral" system="">Select Cooper and activate his watch.</text>
+      <text id="lv00_2410_dg060_ln020" actor="Sprecherin" mood="neutral" system="">Good. Place the watch so that the guard behind the palisade is within the sound range of the watch.</text>
+      <text id="lv00_2420_dg060_ln030" actor="Sprecherin" mood="neutral" system="">Set the sound range of the watch to maximum.</text>
+      <text id="lv00_2430_dg060_ln040" actor="Sprecherin" mood="neutral" system="">Wait until the guard approaches the watch and then take him out with the throwing knife.</text>
+      <text id="lv00_2440_dg060_ln050" actor="Sprecherin" mood="neutral" system="">Ok. Now think: you have to get the watch back. Look at the view cone of the guard standing by the crates in the courtyard. As you can see, the guard is not always looking straight ahead. Wait for the right moment and then have Cooper go to the message by the storage crates.</text>
+      <text id="lv00_2450_dg060_ln060" actor="John Cooper" mood="neutral" system="">Break into the jail. On the left, next to the prison wing, there is a message with further instructions.</text>
+    </dialog>
+
+    <dialog id="lv00_dg070">
+      <text id="lv00_2460_dg070_ln010" actor="Sprecherin" mood="neutral" system="">Turn on the quick action mode.</text>
+      <text id="lv00_2470_dg070_ln020" actor="Sprecherin" mood="neutral" system="">Select Kate, activate the powder and click on both enemies behind the rocks. Then select Cooper, activate the throwing knife and click on the opponent up on the wall.</text>
+      <text id="lv00_2480_dg070_ln030" actor="Sprecherin" mood="neutral" system="">That&apos;s right! Confirm the quick actions and execute them. If you want, you can also view the quick actions in movie mode.</text>
+    </dialog>
+
+    <dialog id="lv00_dg080">
+      <text id="lv00_2490_dg080_ln010" actor="Sprecherin" mood="neutral" system="">Wait until the guard stops moving. Then sneak up behind him and knock him down. While you&apos;re doing this, pay attention to your hero&apos;s noise range. Tip: Kate is quieter than Cooper and Sam. Next, take out the guard on the steps. </text>
+      <text id="lv00_2500_dg080_ln020" actor="Sprecherin" mood="neutral" system="">Have Cooper climb up the ladder and then hide behind the crates. At the same time, order Kate to tie up the guard down in the courtyard. </text>
+    </dialog>
+
+    <dialog id="lv00_dg090">
+      <text id="lv00_2510_dg090_ln010" actor="Sprecherin" mood="neutral" system="">Open the palette for the combo actions.</text>
+      <text id="lv00_2520_dg090_ln020" actor="Sprecherin" mood="neutral" system="">Activate the combo action &quot;Brawlers&quot;.</text>
+      <text id="lv00_2530_dg090_ln030" actor="Sprecherin" mood="neutral" system="">Good. Now set the area where you want the combo action to be performed.</text>
+      <text id="lv00_2540_dg090_ln040" actor="Sprecherin" mood="neutral" system="">They&apos;re going to sleep for a little while! Now perform the action &quot;Binders&quot;.</text>
+      <text id="lv00_2550_dg090_ln050" actor="Sprecherin" mood="neutral" system="">Have Cooper go to the message next to the prison wing and read it. </text>
+      <text id="lv00_2560_dg090_ln060" actor="John Cooper" mood="neutral" system="">Blow up the gate to the cell wing and free El Cortador. He is being held in the cell at the end of the corridor. </text>
+    </dialog>
+
+    <dialog id="lv00_dg100">
+      <text id="lv00_2570_dg100_ln010" actor="Sprecherin" mood="neutral" system="">Activate Sam&apos;s TNT and place it by the mark in front of the door. </text>
+      <text id="lv00_2580_dg100_ln020" actor="Sprecherin" mood="neutral" system="">Ok. Now have Sam take cover in the marked zone. It&apos;s about to get loud!</text>
+      <text id="lv00_2590_dg100_ln030" actor="Sprecherin" mood="neutral" system="">Good. Change to the third person view.</text>
+      <text id="lv00_2600_dg100_ln040" actor="Sprecherin" mood="neutral" system="">Ok. Choose Sam&apos;s Winchester.</text>
+      <text id="lv00_2610_dg100_ln050" actor="Sprecherin" mood="neutral" system="">Very good. Shoot at the TNT.</text>
+      <text id="lv00_2620_dg100_ln060" actor="Sprecherin" mood="neutral" system="">Choose Sam and take out the guards inside the prison by throwing dynamite through the door.</text>
+    </dialog>
+
+    <dialog id="lv00_dg110">
+      <text id="lv00_2630_dg110_ln010" actor="Sprecherin" mood="neutral" system="">Open the mission menu and look over the first assignment that you can carry out without instructions. </text>
+      <text id="lv00_2640_dg110_ln020" actor="John Cooper" mood="neutral" system="">Thank you for distracting the guards, Mr. Cooper. I&apos;m sure your friend will appreciate it, since we will let him live a little longer. Tomorrow come to the church in Santa Fe. Alone!</text>
+    </dialog>
+
+    <dialog id="lv07_cs010">
+      <text id="lv07_0010_cs010_ln010" actor="01wido" mood="neutral" system="lv07_0010_cs010_ln010.wav">He&apos;s dying. Without the antidote it will be a slow, painful death.</text>
+      <text id="lv07_0020_cs010_ln020" actor="John Cooper" mood="neutral" system="lv07_0020_cs010_ln020.wav">What should we do?</text>
+      <text id="lv07_0030_cs010_ln030" actor="01wido" mood="neutral" system="lv07_0030_cs010_ln030.wav">There&apos;s a relay station on the way from here to Fort Wingate.</text>
+      <text id="lv07_0040_cs010_ln040" actor="01wido" mood="neutral" system="lv07_0040_cs010_ln040.wav">They&apos;re expecting a train at the station three days from now - a train full of weapons meant for the fort.</text>
+      <text id="lv07_0050_cs010_ln050" actor="01wido" mood="neutral" system="lv07_0050_cs010_ln050.wav">I want these weapons, Mr. Cooper, and you will get them for me.</text>
+      <text id="lv07_0060_cs010_ln060" actor="Hawkeye" mood="neutral" system="lv07_0060_cs010_ln060.wav">The place we&apos;re looking for is right behind the trees.</text>
+      <text id="lv07_0070_cs010_ln070" actor="Hawkeye" mood="neutral" system="lv07_0070_cs010_ln070.wav">There are white men camped in our path. Hawkeye and his friends should find out what they&apos;re doing here.</text>
+    </dialog>
+
+    <dialog id="lv07_cs020">
+      <text id="lv07_0080_cs020_ln010" actor="Sanchez" mood="neutral" system="lv07_0080_cs020_ln010.wav">Barkeep! Tequila for everyone!</text>
+      <text id="lv07_0090_cs020_ln020" actor="Sanchez" mood="neutral" system="lv07_0090_cs020_ln020.wav">What&apos;s wrong?</text>
+      <text id="lv07_0100_cs020_ln030" actor="02harp" mood="neutral" system="lv07_0100_cs020_ln030.wav">What the hell do you need that dynamite for?</text>
+      <text id="lv07_0110_cs020_ln040" actor="Sanchez" mood="neutral" system="lv07_0110_cs020_ln040.wav">We... uh... </text>
+      <text id="lv07_0120_cs020_ln050" actor="Sam" mood="neutral" system="lv07_0120_cs020_ln050.wav">We&apos;re…uh…gold prospectors, yes... The dynamite, well…uh…we need it…uh…to help make a tunnel. </text>
+      <text id="lv07_0130_cs020_ln060" actor="02harp" mood="neutral" system="lv07_0130_cs020_ln060.wav">Could be. But for right now I&apos;m going to have to take it from you. </text>
+      <text id="lv07_0140_cs020_ln070" actor="02harp" mood="neutral" system="lv07_0140_cs020_ln070.wav">Your weapons.</text>
+      <text id="lv07_0150_cs020_ln080" actor="45post" mood="neutral" system="lv07_0150_cs020_ln080.wav">A... double whiskey... hic!</text>
+      <text id="lv07_0160_cs020_ln090" actor="02harp" mood="neutral" system="lv07_0160_cs020_ln090.wav">That&apos;s enough! It&apos;s water for you, my friend!</text>
+      <text id="lv07_0170_cs020_ln100" actor="Sam" mood="neutral" system="lv07_0170_cs020_ln100.wav">We need to buy some time. But how?</text>
+      <text id="lv07_0180_cs020_ln110" actor="Sanchez" mood="neutral" system="lv07_0180_cs020_ln110.wav">I can&apos;t think of anything!</text>
+      <text id="lv07_0190_cs020_ln120" actor="Sam" mood="neutral" system="lv07_0190_cs020_ln120.wav">Hey, the engineer! Without him the train can&apos;t leave the station. </text>
+      <text id="lv07_0200_cs020_ln130" actor="Sanchez" mood="neutral" system="lv07_0200_cs020_ln130.wav">Good idea, Sam! I&apos;ll take care of the engineer!</text>
+    </dialog>
+
+    <dialog id="lv07_cs030">
+      <text id="lv07_0210_cs030_ln020" actor="41loli" mood="neutral" system="lv07_0210_cs030_ln020.wav">Aaaaah!</text>
+      <text id="lv07_0220_cs030_ln030" actor="Sam" mood="neutral" system="lv07_0220_cs030_ln030.wav">What bullshit!</text>
+      <text id="lv07_0230_cs030_ln040" actor="02harp" mood="neutral" system="lv07_0230_cs030_ln040.wav">Arghhh!</text>
+      <text id="lv07_0240_cs030_ln050" actor="41loli" mood="neutral" system="lv07_0240_cs030_ln050.wav">Aaaaah…Madre mia…Aaaaah! Aaaaah!</text>
+      <text id="lv07_0250_cs030_ln060" actor="41loli" mood="neutral" system="lv07_0250_cs030_ln060.wav">Thank God, Marshall, come quickly!</text>
+      <text id="lv07_0260_cs030_ln070" actor="02harp" mood="neutral" system="lv07_0260_cs030_ln070.wav">What can I do for you, my child?</text>
+      <text id="lv07_0270_cs030_ln080" actor="41loli" mood="neutral" system="lv07_0270_cs030_ln080.wav">A... a big Mexican... he... he knocked Old Bill down.</text>
+      <text id="lv07_0280_cs030_ln090" actor="02harp" mood="neutral" system="lv07_0280_cs030_ln090.wav">Old Bill?</text>
+      <text id="lv07_0290_cs030_ln100" actor="41loli" mood="neutral" system="lv07_0290_cs030_ln100.wav">Yes, Old Bill, the locomotive driver.</text>
+      <text id="lv07_0300_cs030_ln110" actor="Sam" mood="neutral" system="lv07_0300_cs030_ln110.wav">Phew, that was close!</text>
+      <text id="lv07_0310_cs030_ln120" actor="Sanchez" mood="neutral" system="lv07_0310_cs030_ln120.wav">There are soldiers everywhere. How are we supposed to get to the train?</text>
+      <text id="lv07_0320_cs030_ln130" actor="Sam" mood="neutral" system="lv07_0320_cs030_ln130.wav">Wait, Sanchez. I&apos;ve got an idea!</text>
+    </dialog>
+
+    <dialog id="lv07_cs040">
+      <text id="lv07_0330_cs040_ln010" actor="Sanchez" mood="neutral" system="lv07_0330_cs040_ln010.wav">Holy Mary Mother of God! They&apos;re clinging to the train like barnacles!</text>
+      <text id="lv07_0340_cs040_ln020" actor="Sam" mood="neutral" system="lv07_0340_cs040_ln020.wav">Grrr…We&apos;ll never escape this way!</text>
+      <text id="lv07_0350_cs040_ln030" actor="Sanchez" mood="neutral" system="lv07_0350_cs040_ln030.wav">Sam! Why steal the whole train, when all we need is the wagon with the weapons?</text>
+      <text id="lv07_0360_cs040_ln040" actor="Sanchez" mood="neutral" system="lv07_0360_cs040_ln040.wav">We&apos;ll just unhitch the rest. That will make the train lighter and much, much faster!</text>
+    </dialog>
+
+    <dialog id="lv07_cs050">
+      <text id="lv07_0370_cs050_ln010" actor="Sanchez" mood="neutral" system="lv07_0370_cs050_ln010.wav">Ha ha ha ha ah!</text>
+    </dialog>
+
+    <dialog id="lv07_dg010">
+      <text id="lv07_0380_dg010_ln010" actor="11ban5" mood="neutral" system="lv07_0380_dg010_ln010.wav">Listen to me, Mexican. If there are no weapons in the train, I&apos;ll kill you!</text>
+      <text id="lv07_0390_dg010_ln020" actor="69rev2" mood="neutral" system="lv07_0390_dg010_ln020.wav">Calm down, amigo. Believe me! Mr. Goodman told me personally.</text>
+      <text id="lv07_0400_dg010_ln030" actor="11ban5" mood="neutral" system="lv07_0400_dg010_ln030.wav">Pah... He&apos;s dead!</text>
+      <text id="lv07_0410_dg010_ln040" actor="69rev2" mood="neutral" system="lv07_0410_dg010_ln040.wav">But his trains keep going. This one too!</text>
+      <text id="lv07_0420_dg010_ln050" actor="11ban5" mood="neutral" system="lv07_0420_dg010_ln050.wav">I hope so... for your sake!</text>
+      <text id="lv07_0430_dg010_ln060" actor="12ban6" mood="neutral" system="lv07_0430_dg010_ln060.wav">Anyway, let it go for now. I believe him. Tell me what you were planning.</text>
+      <text id="lv07_0440_dg010_ln070" actor="11ban5" mood="neutral" system="lv07_0440_dg010_ln070.wav">Very simple: we blow up the tracks, take care of the guards and clean out the train. That&apos;s it.</text>
+    </dialog>
+
+    <dialog id="lv07_dg020">
+      <text id="lv07_0450_dg020_ln010" actor="Sam" mood="neutral" system="lv07_0450_dg020_ln010.wav">Oh shit. They&apos;re planning to rob the train!</text>
+      <text id="lv07_0460_dg020_ln020" actor="Sanchez" mood="neutral" system="lv07_0460_dg020_ln020.wav">Holy Mary Mother of God. They&apos;re after the same thing we are!</text>
+      <text id="lv07_0470_dg020_ln030" actor="Hawkeye" mood="neutral" system="lv07_0470_dg020_ln030.wav">The plan of white men must be stopped!</text>
+    </dialog>
+
+    <dialog id="lv07_dg030">
+      <text id="lv07_0480_dg030_ln010" actor="08ban2" mood="neutral" system="lv07_0480_dg030_ln010.wav">Everything all right with you?</text>
+      <text id="lv07_0490_dg030_ln020" actor="09ban3" mood="neutral" system="lv07_0490_dg030_ln020.wav">Any news?</text>
+      <text id="lv07_0500_dg030_ln030" actor="11ban5" mood="neutral" system="lv07_0500_dg030_ln030.wav">Seen anything?</text>
+      <text id="lv07_0510_dg030_ln040" actor="12ban6" mood="neutral" system="lv07_0510_dg030_ln040.wav">Tell me: have you spotted anything?</text>
+      <text id="lv07_0520_dg030_ln050" actor="66msk1" mood="neutral" system="lv07_0520_dg030_ln050.wav">I... I&apos;m making my rounds. Is there anything wrong?</text>
+      <text id="lv07_0530_dg030_ln060" actor="67msk2" mood="neutral" system="lv07_0530_dg030_ln060.wav">Problems?</text>
+    </dialog>
+
+    <dialog id="lv07_dg040">
+      <text id="lv07_0540_dg040_ln010" actor="08ban2" mood="neutral" system="lv07_0540_dg040_ln010.wav">Just lightning and rain.</text>
+      <text id="lv07_0550_dg040_ln020" actor="09ban3" mood="neutral" system="lv07_0550_dg040_ln020.wav">Hmm. Nobody around.</text>
+      <text id="lv07_0560_dg040_ln030" actor="11ban5" mood="neutral" system="lv07_0560_dg040_ln030.wav">Stop asking. If I see something, I&apos;ll tell you.</text>
+      <text id="lv07_0570_dg040_ln040" actor="12ban6" mood="neutral" system="lv07_0570_dg040_ln040.wav">Naw... nothing going on here.</text>
+      <text id="lv07_0580_dg040_ln050" actor="66msk1" mood="neutral" system="lv07_0580_dg040_ln050.wav">Hi hi hi... I... I have water in my shoe.</text>
+      <text id="lv07_0590_dg040_ln060" actor="67msk2" mood="neutral" system="lv07_0590_dg040_ln060.wav">Do I look like I have any news? - All right then!</text>
+    </dialog>
+
+    <dialog id="lv07_dg050">
+      <text id="lv07_0600_dg050_ln010" actor="12ban6" mood="neutral" system="lv07_0600_dg050_ln010.wav">Naw... Eu não penso assim... Droga!</text>
+      <text id="lv07_0610_dg050_ln020" actor="67msk2" mood="neutral" system="lv07_0610_dg050_ln020.wav">Que merda é essa?</text>
+    </dialog>
+
+    <dialog id="lv07_dg060">
+      <text id="lv07_0620_dg060_ln010" actor="43barm" mood="neutral" system="lv07_0620_dg060_ln010.wav">Então, Sr. Harper, você gostaria de um uísque?</text>
+      <text id="lv07_0630_dg060_ln020" actor="02harp" mood="neutral" system="lv07_0630_dg060_ln020.wav">Não, eu prefiro.</text>
+      <text id="lv07_0640_dg060_ln030" actor="43barm" mood="neutral" system="lv07_0640_dg060_ln030.wav">Vamos, Sr. Harper, um uísque só vai matá-lo.</text>
+      <text id="lv07_0650_dg060_ln040" actor="02harp" mood="neutral" system="lv07_0650_dg060_ln040.wav">Ha ha ha... Certamente não!</text>
+    </dialog>
+
+    <dialog id="lv07_dg070">
+      <text id="lv07_0660_dg070_ln010" actor="43barm" mood="neutral" system="lv07_0660_dg070_ln010.wav">O que tem no trem deve ser muito importante. Caso contrário você não teria tantos homens assim. </text>
+      <text id="lv07_0670_dg070_ln020" actor="02harp" mood="neutral" system="lv07_0670_dg070_ln020.wav">Curioso como sempre ... Ha ha ha.</text>
+      <text id="lv07_0680_dg070_ln030" actor="43barm" mood="neutral" system="lv07_0680_dg070_ln030.wav">Por que não me diz, Sr. Harper? Eu não vou falar a ninguém.</text>
+      <text id="lv07_0690_dg070_ln040" actor="02harp" mood="neutral" system="lv07_0690_dg070_ln040.wav">Ha ha ha... São armas meu amigo. Umaa grande carga de armas para Fort Wingate.</text>
+    </dialog>
+
+    <dialog id="lv07_dg080">
+      <text id="lv07_0700_dg080_ln010" actor="43barm" mood="neutral" system="lv07_0700_dg080_ln010.wav">Eu... ele... Eu queria lhe agradecer, Sr. Harper.</text>
+      <text id="lv07_0710_dg080_ln020" actor="02harp" mood="neutral" system="lv07_0710_dg080_ln020.wav">Para quê?</text>
+      <text id="lv07_0720_dg080_ln030" actor="43barm" mood="neutral" system="lv07_0720_dg080_ln030.wav">Bem... por tirar as armas de perto dos mexicano e seus amigos. Eu tive um pré-sentimento ruim.</text>
+      <text id="lv07_0730_dg080_ln040" actor="02harp" mood="neutral" system="lv07_0730_dg080_ln040.wav">Não comemore tão cedo. Quando sairmos eles vão pegar suas armas de volta. </text>
+    </dialog>
+
+    <dialog id="lv07_dg090">
+      <text id="lv07_0740_dg090_ln010" actor="20sol2" mood="neutral" system="lv07_0740_dg090_ln010.wav">Parem de choramingar, soldado! A chuva vai deixar você aquecido!</text>
+      <text id="lv07_0750_dg090_ln020" actor="21sol3" mood="neutral" system="lv07_0750_dg090_ln020.wav">Cabeça erguida soldado, vamos seguir em frente daqui um minuto!</text>
+      <text id="lv07_0760_dg090_ln030" actor="22sol4" mood="neutral" system="lv07_0760_dg090_ln030.wav">Se eu tiver que ficar na chuva por mais tempo, vou deixar o exército!</text>
+      <text id="lv07_0770_dg090_ln040" actor="25sol7" mood="neutral" system="lv07_0770_dg090_ln040.wav">Esta maldita chuva!</text>
+    </dialog>
+
+    <dialog id="lv07_dg095">
+      <text id="lv07_0780_dg095_ln010" actor="19sol1" mood="neutral" system="lv07_0780_dg095_ln010.wav">Get out of here!</text>
+      <text id="lv07_0790_dg095_ln020" actor="20sol2" mood="neutral" system="lv07_0790_dg095_ln020.wav">Stop! Step back!</text>
+      <text id="lv07_0800_dg095_ln030" actor="20sol2" mood="neutral" system="lv07_0800_dg095_ln030.wav">Hellfire and damnation. Get away from the train!</text>
+      <text id="lv07_0810_dg095_ln040" actor="20sol2" mood="neutral" system="lv07_0810_dg095_ln040.wav">You haven&apos;t lost anything here! Get the hell out of here!</text>
+      <text id="lv07_0820_dg095_ln050" actor="25sol7" mood="neutral" system="lv07_0820_dg095_ln050.wav">Goddamn sack of shit. Civilians don&apos;t belong here!</text>
+      <text id="lv07_0830_dg095_ln060" actor="25sol7" mood="neutral" system="lv07_0830_dg095_ln060.wav">Get lost, you dirty bastard!</text>
+      <text id="lv07_0840_dg095_ln070" actor="25sol7" mood="neutral" system="lv07_0840_dg095_ln070.wav">What is this shit? Get lost!</text>
+    </dialog>
+
+    <dialog id="lv07_dg100">
+      <text id="lv07_0850_dg100_ln010" actor="20sol2" mood="neutral" system="lv07_0850_dg100_ln010.wav">Pull yourself together soldier, and keep your eyes open!</text>
+      <text id="lv07_0860_dg100_ln020" actor="20sol2" mood="neutral" system="lv07_0860_dg100_ln020.wav">Don&apos;t fall asleep on me, soldier!</text>
+      <text id="lv07_0870_dg100_ln030" actor="21sol3" mood="neutral" system="lv07_0870_dg100_ln030.wav">Good, keep your guard up.</text>
+      <text id="lv07_0880_dg100_ln040" actor="21sol3" mood="neutral" system="lv07_0880_dg100_ln040.wav">I know I can count on you. Keep it up!</text>
+    </dialog>
+
+    <dialog id="lv07_dg110">
+      <text id="lv07_0890_dg110_ln010" actor="20sol2" mood="neutral" system="lv07_0890_dg110_ln010.wav">Shit! What a lousy rotten piece of shit!</text>
+      <text id="lv07_0900_dg110_ln020" actor="45post" mood="neutral" system="lv07_0900_dg110_ln020.wav">Now... hic... now I have tequila in my shoe... burp! No... it&apos;s just water... too bad.</text>
+    </dialog>
+
+    <dialog id="lv07_dg120">
+      <text id="lv07_0910_dg120_ln010" actor="45post" mood="neutral" system="lv07_0910_dg120_ln010.wav">A whiskey would be good... hic! Or tequila would do the trick... burp.</text>
+      <text id="lv07_0920_dg120_ln020" actor="45post" mood="neutral" system="lv07_0920_dg120_ln020.wav">Shit Marshall... hic! I&apos;ll piss in the boiler... then it will run... (he he he)</text>
+      <text id="lv07_0930_dg120_ln030" actor="45post" mood="neutral" system="lv07_0930_dg120_ln030.wav">Hey you, soldier! You have a whiskey for me...</text>
+    </dialog>
+
+    <dialog id="lv07_dg130">
+      <text id="lv07_0940_dg130_ln010" actor="45post" mood="neutral" system="lv07_0940_dg130_ln010.wav">Let&apos;s see... hic... maybe I&apos;ll find another bottle... (hi hi hi)</text>
+      <text id="lv07_0950_dg130_ln020" actor="45post" mood="neutral" system="lv07_0950_dg130_ln020.wav">Was that all? Burp... there must be more...</text>
+      <text id="lv07_0960_dg130_ln030" actor="45post" mood="neutral" system="lv07_0960_dg130_ln030.wav">So... burp... now I need to piss. But where? Oh, I know.</text>
+    </dialog>
+
+    <dialog id="lv07_dg140">
+      <text id="lv07_0970_dg140_ln010" actor="20sol2" mood="neutral" system="lv07_0970_dg140_ln010.wav">Get up, you lame dogs, search everywhere!</text>
+      <text id="lv07_0980_dg140_ln020" actor="20sol2" mood="neutral" system="lv07_0980_dg140_ln020.wav">The mangy curs must be here somewhere! Don&apos;t let them get away!</text>
+      <text id="lv07_0990_dg140_ln030" actor="20sol2" mood="neutral" system="lv07_0990_dg140_ln030.wav">Hellfire and damnation. Deploy!</text>
+    </dialog>
+
+    <dialog id="lv07_dg150">
+      <text id="lv07_1000_dg150_ln010" actor="20sol2" mood="neutral" system="lv07_1000_dg150_ln010.wav">Have you found someone, soldier?</text>
+      <text id="lv07_1010_dg150_ln020" actor="21sol3" mood="neutral" system="lv07_1010_dg150_ln020.wav">Did you discover anything?</text>
+      <text id="lv07_1020_dg150_ln030" actor="22sol4" mood="neutral" system="lv07_1020_dg150_ln030.wav">No, sir, no!</text>
+      <text id="lv07_1030_dg150_ln040" actor="25sol7" mood="neutral" system="lv07_1030_dg150_ln040.wav">No... eh... sir!</text>
+    </dialog>
+
+  </level>
+
+</resources>                                                                
