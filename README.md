@@ -5,7 +5,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR?label=%20Lançamento&style=for-the-badge)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
 
 <h1 align="center"><figure>
-  <img src="DesperadosIII.png">
+  <img src="Helldorado.png">
 </figure></h1>
 
 
