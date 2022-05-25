@@ -21,7 +21,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Em construção
+<h1 align=<figure>
+  <img src="Instalação.png">
+</figure></h1>
 
 ## Ferramentas Ultilizadas
 
