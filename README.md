@@ -2,7 +2,7 @@
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
 ## Baixar
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR?label=%20Lançamento&style=for-the-badge)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/HELLDORADO_PT-BR?label=%20Lançamento&style=for-the-badge)](https://github.com/JUNIORGBJ/HELLDORADO_PT-BR/releases/latest)
 
 <h1 align="center"><figure>
   <img src="Helldorado.png">
@@ -21,7 +21,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Em construção
+<h1 align=<figure>
+  <img src="Instalação.png">
+</figure></h1>
 
 ## Ferramentas Ultilizadas
 
